@@ -1,0 +1,595 @@
+{\rtf1\ansi\ansicpg1252\uc1 \deff0\deflang1033\deflangfe1033{\fonttbl{\f0\froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f1\fswiss\fcharset0\fprq2{\*\panose 020b0604020202020204}Arial;}
+{\f2\fmodern\fcharset0\fprq1{\*\panose 02070309020205020404}Courier New;}{\f3\froman\fcharset2\fprq2{\*\panose 05050102010706020507}Symbol;}{\f4\froman\fcharset0\fprq2{\*\panose 00000000000000000000}Times;}
+{\f5\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}Helvetica;}{\f6\fmodern\fcharset0\fprq1{\*\panose 00000000000000000000}Courier;}{\f7\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}Geneva;}
+{\f8\froman\fcharset0\fprq2{\*\panose 00000000000000000000}Tms Rmn;}{\f9\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}Helv;}{\f10\froman\fcharset0\fprq2{\*\panose 00000000000000000000}MS Serif;}
+{\f11\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}MS Sans Serif;}{\f12\froman\fcharset0\fprq2{\*\panose 00000000000000000000}New York;}{\f13\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}System;}
+{\f14\fnil\fcharset2\fprq2{\*\panose 05000000000000000000}Wingdings;}{\f15\fswiss\fcharset0\fprq2{\*\panose 020b0604030504040204}Tahoma;}{\f16\fnil\fcharset2\fprq2{\*\panose 00000000000000000000}Marlett;}
+{\f17\fmodern\fcharset0\fprq1{\*\panose 020b0609040504020204}Lucida Console;}{\f18\fscript\fcharset0\fprq2{\*\panose 030f0702030302020204}Comic Sans MS;}{\f19\fswiss\fcharset0\fprq2{\*\panose 020b0604030504040204}Verdana;}
+{\f20\froman\fcharset2\fprq2{\*\panose 05030102010509060703}Webdings;}{\f21\fswiss\fcharset0\fprq2{\*\panose 020b0806030902050204}Impact;}{\f22\fswiss\fcharset0\fprq2{\*\panose 020b0a04020102020204}Arial Black;}
+{\f23\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}Arial Narrow;}{\f24\froman\fcharset0\fprq2{\*\panose 00000000000000000000}Bookman Old Style;}{\f25\froman\fcharset0\fprq2{\*\panose 00000000000000000000}Garamond;}
+{\f26\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}Arial MT Black;}{\f27\fscript\fcharset0\fprq2{\*\panose 00000000000000000000}Benguiat Frisky;}{\f28\froman\fcharset0\fprq2{\*\panose 00000000000000000000}Poster Bodoni;}
+{\f29\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}Gill Sans MT Shadow;}{\f30\froman\fcharset0\fprq2{\*\panose 00000000000000000000}Goudy Old Style;}{\f31\fscript\fcharset0\fprq2{\*\panose 00000000000000000000}Graphite Light;}
+{\f32\fscript\fcharset0\fprq2{\*\panose 00000000000000000000}Graphite Light Narrow;}{\f33\fscript\fcharset0\fprq2{\*\panose 00000000000000000000}Lucida Casual;}{\f34\fnil\fcharset2\fprq2{\*\panose 00000000000000000000}Milestones;}
+{\f35\fscript\fcharset0\fprq2{\*\panose 00000000000000000000}Phyllis;}{\f36\fscript\fcharset0\fprq2{\*\panose 00000000000000000000}Signet Roundhand;}{\f37\fdecor\fcharset0\fprq2{\*\panose 00000000000000000000}Artistik;}
+{\f38\fdecor\fcharset0\fprq2{\*\panose 00000000000000000000}Ashley Inline;}{\f39\fdecor\fcharset0\fprq2{\*\panose 00000000000000000000}Bertram;}{\f40\fdecor\fcharset0\fprq2{\*\panose 00000000000000000000}Broadway;}
+{\f41\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}CandyBits BT;}{\f42\fdecor\fcharset0\fprq2{\*\panose 00000000000000000000}Challenge Extra Bold;}{\f43\fdecor\fcharset0\fprq2{\*\panose 00000000000000000000}Creepy;}
+{\f44\fdecor\fcharset0\fprq2{\*\panose 00000000000000000000}Eclipse;}{\f45\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}EraserDust;}{\f46\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}Glowworm;}
+{\f47\fdecor\fcharset0\fprq2{\*\panose 00000000000000000000}Harlow;}{\f48\fscript\fcharset0\fprq2{\*\panose 00000000000000000000}Kidprint;}{\f49\fscript\fcharset0\fprq2{\*\panose 00000000000000000000}Nadianne;}
+{\f50\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}Old English;}{\f51\fdecor\fcharset0\fprq2{\*\panose 00000000000000000000}Party;}{\f52\fdecor\fcharset0\fprq2{\*\panose 00000000000000000000}Pioneer ITC;}
+{\f53\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}Roughedge;}{\f54\fdecor\fcharset0\fprq2{\*\panose 00000000000000000000}Snap ITC;}{\f55\fdecor\fcharset0\fprq2{\*\panose 00000000000000000000}Snowdrift;}
+{\f56\fdecor\fcharset0\fprq2{\*\panose 00000000000000000000}Stencil Sans;}{\f57\froman\fcharset0\fprq2{\*\panose 00000000000000000000}Thunderbird;}{\f58\fdecor\fcharset0\fprq2{\*\panose 00000000000000000000}Traffic;}
+{\f59\fdecor\fcharset0\fprq2{\*\panose 00000000000000000000}Yearbook Outline;}{\f60\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}Albertus Medium;}{\f61\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}Albertus;}
+{\f62\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}Albertus Extra Bold;}{\f63\fdecor\fcharset0\fprq2{\*\panose 00000000000000000000}Arriba;}{\f64\fdecor\fcharset0\fprq2{\*\panose 00000000000000000000}Bradley Hand ITC;}
+{\f65\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}Ginko;}{\f66\froman\fcharset0\fprq2{\*\panose 00000000000000000000}Paddington;}{\f67\froman\fcharset0\fprq2{\*\panose 00000000000000000000}Pompeii Capitals;}
+{\f68\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}Theatre Antoine;}{\f69\fdecor\fcharset0\fprq2{\*\panose 00000000000000000000}Westwood;}{\f70\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}Manorama;}
+{\f71\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}TMNEWS;}{\f72\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}AMGDT;}{\f73\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}BankGothic Lt BT;}
+{\f74\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}BankGothic Md BT;}{\f75\fnil\fcharset2\fprq2{\*\panose 00000000000000000000}CityBlueprint;}{\f76\froman\fcharset2\fprq2{\*\panose 00000000000000000000}CommercialPi BT;}
+{\f77\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}Complex;}{\f78\fscript\fcharset0\fprq2{\*\panose 00000000000000000000}CommercialScript BT;}{\f79\fnil\fcharset2\fprq2{\*\panose 00000000000000000000}CountryBlueprint;}
+{\f80\froman\fcharset0\fprq2{\*\panose 00000000000000000000}Dutch801 Rm BT;}{\f81\froman\fcharset0\fprq2{\*\panose 00000000000000000000}Dutch801 XBd BT;}{\f82\fnil\fcharset2\fprq2{\*\panose 00000000000000000000}EuroRoman;}
+{\f83\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}GDT;}{\f84\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}GothicE;}{\f85\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}GothicG;}
+{\f86\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}GothicI;}{\f87\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}GreekC;}{\f88\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}GreekS;}
+{\f89\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}ISOCP2;}{\f90\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}ISOCP3;}{\f91\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}ISOCP;}
+{\f92\fmodern\fcharset0\fprq1{\*\panose 00000000000000000000}ISOCT2;}{\f93\fmodern\fcharset0\fprq1{\*\panose 00000000000000000000}ISOCT3;}{\f94\fmodern\fcharset0\fprq1{\*\panose 00000000000000000000}ISOCT;}
+{\f95\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}ItalicC;}{\f96\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}ItalicT;}{\f97\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}Italic;}
+{\f98\fmodern\fcharset0\fprq1{\*\panose 00000000000000000000}Monospac821 BT;}{\f99\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}Monotxt;}{\f100\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}Proxy 1;}
+{\f101\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}Proxy 2;}{\f102\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}Proxy 3;}{\f103\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}Proxy 4;}
+{\f104\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}Proxy 5;}{\f105\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}Proxy 6;}{\f106\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}Proxy 7;}
+{\f107\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}Proxy 8;}{\f108\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}Proxy 9;}{\f109\fnil\fcharset2\fprq2{\*\panose 00000000000000000000}PanRoman;}
+{\f110\fnil\fcharset2\fprq2{\*\panose 00000000000000000000}Romantic;}{\f111\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}RomanC;}{\f112\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}RomanD;}
+{\f113\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}RomanS;}{\f114\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}RomanT;}{\f115\fnil\fcharset2\fprq2{\*\panose 00000000000000000000}SansSerif;}
+{\f116\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}ScriptC;}{\f117\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}ScriptS;}{\f118\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}Simplex;}
+{\f119\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}Stylus BT;}{\f120\fnil\fcharset2\fprq2{\*\panose 00000000000000000000}SuperFrench;}{\f121\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}Swis721 BT;}
+{\f122\fdecor\fcharset0\fprq2{\*\panose 00000000000000000000}Swis721 BdOul BT;}{\f123\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}Swis721 Cn BT;}{\f124\fdecor\fcharset0\fprq2{\*\panose 00000000000000000000}Swis721 BdCnOul BT;}
+{\f125\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}Swis721 BlkCn BT;}{\f126\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}Swis721 LtCn BT;}{\f127\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}Swis721 Ex BT;}
+{\f128\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}Swis721 BlkEx BT;}{\f129\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}Swis721 LtEx BT;}{\f130\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}Swis721 Blk BT;}
+{\f131\fdecor\fcharset0\fprq2{\*\panose 00000000000000000000}Swis721 BlkOul BT;}{\f132\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}Swis721 Lt BT;}{\f133\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}Syastro;}
+{\f134\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}Symap;}{\f135\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}Symath;}{\f136\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}Symeteo;}
+{\f137\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}Symusic;}{\f138\fnil\fcharset2\fprq2{\*\panose 00000000000000000000}TechnicBold;}{\f139\fnil\fcharset2\fprq2{\*\panose 00000000000000000000}TechnicLite;}
+{\f140\fnil\fcharset2\fprq2{\*\panose 00000000000000000000}Technic;}{\f141\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}Txt;}{\f142\froman\fcharset2\fprq2{\*\panose 00000000000000000000}UniversalMath1 BT;}
+{\f143\fdecor\fcharset0\fprq2{\*\panose 00000000000000000000}Vineta BT;}{\f144\fswiss\fcharset238\fprq2{\*\panose 00000000000000000000}Arial Narrow CE;}{\f145\fswiss\fcharset204\fprq2{\*\panose 00000000000000000000}Arial Narrow Cyr;}
+{\f146\fswiss\fcharset161\fprq2{\*\panose 00000000000000000000}Arial Narrow Greek;}{\f147\fswiss\fcharset162\fprq2{\*\panose 00000000000000000000}Arial Narrow Tur;}{\f148\fswiss\fcharset186\fprq2{\*\panose 00000000000000000000}Arial Narrow Baltic;}
+{\f149\froman\fcharset238\fprq2{\*\panose 00000000000000000000}Bookman Old Style CE;}{\f150\froman\fcharset204\fprq2{\*\panose 00000000000000000000}Bookman Old Style Cyr;}
+{\f151\froman\fcharset161\fprq2{\*\panose 00000000000000000000}Bookman Old Style Greek;}{\f152\froman\fcharset162\fprq2{\*\panose 00000000000000000000}Bookman Old Style Tur;}
+{\f153\froman\fcharset186\fprq2{\*\panose 00000000000000000000}Bookman Old Style Baltic;}{\f154\froman\fcharset238\fprq2{\*\panose 00000000000000000000}Garamond CE;}{\f155\froman\fcharset204\fprq2{\*\panose 00000000000000000000}Garamond Cyr;}
+{\f156\froman\fcharset161\fprq2{\*\panose 00000000000000000000}Garamond Greek;}{\f157\froman\fcharset162\fprq2{\*\panose 00000000000000000000}Garamond Tur;}{\f158\froman\fcharset186\fprq2{\*\panose 00000000000000000000}Garamond Baltic;}
+{\f159\fswiss\fcharset238\fprq2{\*\panose 00000000000000000000}Arial MT Black CE;}{\f160\fswiss\fcharset162\fprq2{\*\panose 00000000000000000000}Arial MT Black Tur;}{\f161\fscript\fcharset238\fprq2{\*\panose 00000000000000000000}Benguiat Frisky CE;}
+{\f162\fscript\fcharset162\fprq2{\*\panose 00000000000000000000}Benguiat Frisky Tur;}{\f163\froman\fcharset238\fprq2{\*\panose 00000000000000000000}Poster Bodoni CE;}{\f164\froman\fcharset162\fprq2{\*\panose 00000000000000000000}Poster Bodoni Tur;}
+{\f165\fswiss\fcharset238\fprq2{\*\panose 00000000000000000000}Gill Sans MT Shadow CE;}{\f166\fswiss\fcharset162\fprq2{\*\panose 00000000000000000000}Gill Sans MT Shadow Tur;}
+{\f167\froman\fcharset238\fprq2{\*\panose 00000000000000000000}Goudy Old Style CE;}{\f168\froman\fcharset162\fprq2{\*\panose 00000000000000000000}Goudy Old Style Tur;}{\f169\fscript\fcharset238\fprq2{\*\panose 00000000000000000000}Graphite Light CE;}
+{\f170\fscript\fcharset162\fprq2{\*\panose 00000000000000000000}Graphite Light Tur;}{\f171\fscript\fcharset238\fprq2{\*\panose 00000000000000000000}Graphite Light Narrow CE;}
+{\f172\fscript\fcharset162\fprq2{\*\panose 00000000000000000000}Graphite Light Narrow Tur;}{\f173\fscript\fcharset238\fprq2{\*\panose 00000000000000000000}Lucida Casual CE;}
+{\f174\fscript\fcharset162\fprq2{\*\panose 00000000000000000000}Lucida Casual Tur;}{\f175\fscript\fcharset238\fprq2{\*\panose 00000000000000000000}Phyllis CE;}{\f176\fscript\fcharset162\fprq2{\*\panose 00000000000000000000}Phyllis Tur;}
+{\f177\fscript\fcharset238\fprq2{\*\panose 00000000000000000000}Signet Roundhand CE;}{\f178\fscript\fcharset162\fprq2{\*\panose 00000000000000000000}Signet Roundhand Tur;}{\f179\fdecor\fcharset238\fprq2{\*\panose 00000000000000000000}Artistik CE;}
+{\f180\fdecor\fcharset162\fprq2{\*\panose 00000000000000000000}Artistik Tur;}{\f181\fdecor\fcharset238\fprq2{\*\panose 00000000000000000000}Ashley Inline CE;}{\f182\fdecor\fcharset162\fprq2{\*\panose 00000000000000000000}Ashley Inline Tur;}
+{\f183\fdecor\fcharset238\fprq2{\*\panose 00000000000000000000}Bertram CE;}{\f184\fdecor\fcharset162\fprq2{\*\panose 00000000000000000000}Bertram Tur;}{\f185\fdecor\fcharset238\fprq2{\*\panose 00000000000000000000}Broadway CE;}
+{\f186\fdecor\fcharset162\fprq2{\*\panose 00000000000000000000}Broadway Tur;}{\f187\fdecor\fcharset238\fprq2{\*\panose 00000000000000000000}Challenge Extra Bold CE;}{\f188\fdecor\fcharset162\fprq2{\*\panose 00000000000000000000}Challenge Extra Bold Tur;}
+{\f189\fdecor\fcharset238\fprq2{\*\panose 00000000000000000000}Creepy CE;}{\f190\fdecor\fcharset162\fprq2{\*\panose 00000000000000000000}Creepy Tur;}{\f191\fdecor\fcharset238\fprq2{\*\panose 00000000000000000000}Eclipse CE;}
+{\f192\fdecor\fcharset162\fprq2{\*\panose 00000000000000000000}Eclipse Tur;}{\f193\fswiss\fcharset238\fprq2{\*\panose 00000000000000000000}Glowworm CE;}{\f194\fswiss\fcharset162\fprq2{\*\panose 00000000000000000000}Glowworm Tur;}
+{\f195\fdecor\fcharset238\fprq2{\*\panose 00000000000000000000}Harlow CE;}{\f196\fdecor\fcharset162\fprq2{\*\panose 00000000000000000000}Harlow Tur;}{\f197\fscript\fcharset238\fprq2{\*\panose 00000000000000000000}Kidprint CE;}
+{\f198\fscript\fcharset162\fprq2{\*\panose 00000000000000000000}Kidprint Tur;}{\f199\fscript\fcharset238\fprq2{\*\panose 00000000000000000000}Nadianne CE;}{\f200\fscript\fcharset162\fprq2{\*\panose 00000000000000000000}Nadianne Tur;}
+{\f201\fnil\fcharset238\fprq2{\*\panose 00000000000000000000}Old English CE;}{\f202\fnil\fcharset162\fprq2{\*\panose 00000000000000000000}Old English Tur;}{\f203\fdecor\fcharset238\fprq2{\*\panose 00000000000000000000}Party CE;}
+{\f204\fdecor\fcharset162\fprq2{\*\panose 00000000000000000000}Party Tur;}{\f205\fdecor\fcharset238\fprq2{\*\panose 00000000000000000000}Pioneer ITC CE;}{\f206\fdecor\fcharset162\fprq2{\*\panose 00000000000000000000}Pioneer ITC Tur;}
+{\f207\fswiss\fcharset238\fprq2{\*\panose 00000000000000000000}Roughedge CE;}{\f208\fswiss\fcharset162\fprq2{\*\panose 00000000000000000000}Roughedge Tur;}{\f209\fdecor\fcharset238\fprq2{\*\panose 00000000000000000000}Snap ITC CE;}
+{\f210\fdecor\fcharset162\fprq2{\*\panose 00000000000000000000}Snap ITC Tur;}{\f211\fdecor\fcharset238\fprq2{\*\panose 00000000000000000000}Snowdrift CE;}{\f212\fdecor\fcharset162\fprq2{\*\panose 00000000000000000000}Snowdrift Tur;}
+{\f213\fdecor\fcharset238\fprq2{\*\panose 00000000000000000000}Stencil Sans CE;}{\f214\fdecor\fcharset162\fprq2{\*\panose 00000000000000000000}Stencil Sans Tur;}{\f215\froman\fcharset238\fprq2{\*\panose 00000000000000000000}Thunderbird CE;}
+{\f216\froman\fcharset162\fprq2{\*\panose 00000000000000000000}Thunderbird Tur;}{\f217\fdecor\fcharset238\fprq2{\*\panose 00000000000000000000}Traffic CE;}{\f218\fdecor\fcharset162\fprq2{\*\panose 00000000000000000000}Traffic Tur;}
+{\f219\fdecor\fcharset238\fprq2{\*\panose 00000000000000000000}Yearbook Outline CE;}{\f220\fdecor\fcharset162\fprq2{\*\panose 00000000000000000000}Yearbook Outline Tur;}{\f221\fswiss\fcharset238\fprq2{\*\panose 00000000000000000000}Albertus Medium CE;}
+{\f222\fswiss\fcharset162\fprq2{\*\panose 00000000000000000000}Albertus Medium Tur;}{\f223\fswiss\fcharset186\fprq2{\*\panose 00000000000000000000}Albertus Medium Baltic;}{\f224\fswiss\fcharset238\fprq2{\*\panose 00000000000000000000}Albertus CE;}
+{\f225\fswiss\fcharset162\fprq2{\*\panose 00000000000000000000}Albertus Tur;}{\f226\fswiss\fcharset186\fprq2{\*\panose 00000000000000000000}Albertus Baltic;}{\f227\fswiss\fcharset238\fprq2{\*\panose 00000000000000000000}Albertus Extra Bold CE;}
+{\f228\fswiss\fcharset162\fprq2{\*\panose 00000000000000000000}Albertus Extra Bold Tur;}{\f229\fswiss\fcharset186\fprq2{\*\panose 00000000000000000000}Albertus Extra Bold Baltic;}{\f230\fdecor\fcharset238\fprq2{\*\panose 00000000000000000000}Arriba CE;}
+{\f231\fdecor\fcharset162\fprq2{\*\panose 00000000000000000000}Arriba Tur;}{\f232\fdecor\fcharset238\fprq2{\*\panose 00000000000000000000}Bradley Hand ITC CE;}{\f233\fdecor\fcharset162\fprq2{\*\panose 00000000000000000000}Bradley Hand ITC Tur;}
+{\f234\fnil\fcharset238\fprq2{\*\panose 00000000000000000000}Ginko CE;}{\f235\fnil\fcharset162\fprq2{\*\panose 00000000000000000000}Ginko Tur;}{\f236\froman\fcharset238\fprq2{\*\panose 00000000000000000000}Paddington CE;}
+{\f237\froman\fcharset162\fprq2{\*\panose 00000000000000000000}Paddington Tur;}{\f238\froman\fcharset238\fprq2{\*\panose 00000000000000000000}Pompeii Capitals CE;}{\f239\froman\fcharset162\fprq2{\*\panose 00000000000000000000}Pompeii Capitals Tur;}
+{\f240\fswiss\fcharset238\fprq2{\*\panose 00000000000000000000}Theatre Antoine CE;}{\f241\fswiss\fcharset162\fprq2{\*\panose 00000000000000000000}Theatre Antoine Tur;}{\f242\fdecor\fcharset238\fprq2{\*\panose 00000000000000000000}Westwood CE;}
+{\f243\fdecor\fcharset162\fprq2{\*\panose 00000000000000000000}Westwood Tur;}{\f244\fswiss\fcharset162\fprq2{\*\panose 00000000000000000000}BankGothic Lt BT Tur;}{\f245\fswiss\fcharset162\fprq2{\*\panose 00000000000000000000}BankGothic Md BT Tur;}
+{\f246\fnil\fcharset238\fprq2{\*\panose 00000000000000000000}Complex CE;}{\f247\fnil\fcharset161\fprq2{\*\panose 00000000000000000000}Complex Greek;}{\f248\fscript\fcharset162\fprq2{\*\panose 00000000000000000000}CommercialScript BT Tur;}
+{\f249\froman\fcharset162\fprq2{\*\panose 00000000000000000000}Dutch801 Rm BT Tur;}{\f250\froman\fcharset162\fprq2{\*\panose 00000000000000000000}Dutch801 XBd BT Tur;}{\f251\fnil\fcharset238\fprq2{\*\panose 00000000000000000000}GothicE CE;}
+{\f252\fnil\fcharset238\fprq2{\*\panose 00000000000000000000}GothicI CE;}{\f253\fnil\fcharset238\fprq2{\*\panose 00000000000000000000}ItalicC CE;}{\f254\fnil\fcharset238\fprq2{\*\panose 00000000000000000000}ItalicT CE;}
+{\f255\fnil\fcharset238\fprq2{\*\panose 00000000000000000000}Italic CE;}{\f256\fmodern\fcharset162\fprq1{\*\panose 00000000000000000000}Monospac821 BT Tur;}{\f257\fnil\fcharset238\fprq2{\*\panose 00000000000000000000}Monotxt CE;}
+{\f258\fnil\fcharset238\fprq2{\*\panose 00000000000000000000}RomanC CE;}{\f259\fnil\fcharset238\fprq2{\*\panose 00000000000000000000}RomanS CE;}{\f260\fnil\fcharset238\fprq2{\*\panose 00000000000000000000}RomanT CE;}
+{\f261\fnil\fcharset238\fprq2{\*\panose 00000000000000000000}ScriptC CE;}{\f262\fnil\fcharset238\fprq2{\*\panose 00000000000000000000}ScriptS CE;}{\f263\fnil\fcharset238\fprq2{\*\panose 00000000000000000000}Simplex CE;}
+{\f264\fswiss\fcharset162\fprq2{\*\panose 00000000000000000000}Stylus BT Tur;}{\f265\fswiss\fcharset162\fprq2{\*\panose 00000000000000000000}Swis721 BT Tur;}{\f266\fdecor\fcharset162\fprq2{\*\panose 00000000000000000000}Swis721 BdOul BT Tur;}
+{\f267\fswiss\fcharset162\fprq2{\*\panose 00000000000000000000}Swis721 Cn BT Tur;}{\f268\fdecor\fcharset162\fprq2{\*\panose 00000000000000000000}Swis721 BdCnOul BT Tur;}{\f269\fswiss\fcharset162\fprq2{\*\panose 00000000000000000000}Swis721 BlkCn BT Tur;}
+{\f270\fswiss\fcharset162\fprq2{\*\panose 00000000000000000000}Swis721 LtCn BT Tur;}{\f271\fswiss\fcharset162\fprq2{\*\panose 00000000000000000000}Swis721 Ex BT Tur;}{\f272\fswiss\fcharset162\fprq2{\*\panose 00000000000000000000}Swis721 BlkEx BT Tur;}
+{\f273\fswiss\fcharset162\fprq2{\*\panose 00000000000000000000}Swis721 LtEx BT Tur;}{\f274\fswiss\fcharset162\fprq2{\*\panose 00000000000000000000}Swis721 Blk BT Tur;}{\f275\fdecor\fcharset162\fprq2{\*\panose 00000000000000000000}Swis721 BlkOul BT Tur;}
+{\f276\fswiss\fcharset162\fprq2{\*\panose 00000000000000000000}Swis721 Lt BT Tur;}{\f277\fnil\fcharset238\fprq2{\*\panose 00000000000000000000}Txt CE;}{\f278\fdecor\fcharset162\fprq2{\*\panose 00000000000000000000}Vineta BT Tur;}
+{\f279\froman\fcharset238\fprq2 Times New Roman CE;}{\f280\froman\fcharset204\fprq2 Times New Roman Cyr;}{\f282\froman\fcharset161\fprq2 Times New Roman Greek;}{\f283\froman\fcharset162\fprq2 Times New Roman Tur;}
+{\f284\froman\fcharset186\fprq2 Times New Roman Baltic;}{\f285\fswiss\fcharset238\fprq2 Arial CE;}{\f286\fswiss\fcharset204\fprq2 Arial Cyr;}{\f288\fswiss\fcharset161\fprq2 Arial Greek;}{\f289\fswiss\fcharset162\fprq2 Arial Tur;}
+{\f290\fswiss\fcharset186\fprq2 Arial Baltic;}{\f291\fmodern\fcharset238\fprq1 Courier New CE;}{\f292\fmodern\fcharset204\fprq1 Courier New Cyr;}{\f294\fmodern\fcharset161\fprq1 Courier New Greek;}{\f295\fmodern\fcharset162\fprq1 Courier New Tur;}
+{\f296\fmodern\fcharset186\fprq1 Courier New Baltic;}{\f369\fswiss\fcharset238\fprq2 Tahoma CE;}{\f370\fswiss\fcharset204\fprq2 Tahoma Cyr;}{\f372\fswiss\fcharset161\fprq2 Tahoma Greek;}{\f373\fswiss\fcharset162\fprq2 Tahoma Tur;}
+{\f374\fswiss\fcharset186\fprq2 Tahoma Baltic;}{\f381\fmodern\fcharset238\fprq1 Lucida Console CE;}{\f382\fmodern\fcharset204\fprq1 Lucida Console Cyr;}{\f384\fmodern\fcharset161\fprq1 Lucida Console Greek;}
+{\f385\fmodern\fcharset162\fprq1 Lucida Console Tur;}{\f387\fscript\fcharset238\fprq2 Comic Sans MS CE;}{\f388\fscript\fcharset204\fprq2 Comic Sans MS Cyr;}{\f390\fscript\fcharset161\fprq2 Comic Sans MS Greek;}
+{\f391\fscript\fcharset162\fprq2 Comic Sans MS Tur;}{\f392\fscript\fcharset186\fprq2 Comic Sans MS Baltic;}{\f393\fswiss\fcharset238\fprq2 Verdana CE;}{\f394\fswiss\fcharset204\fprq2 Verdana Cyr;}{\f396\fswiss\fcharset161\fprq2 Verdana Greek;}
+{\f397\fswiss\fcharset162\fprq2 Verdana Tur;}{\f398\fswiss\fcharset186\fprq2 Verdana Baltic;}{\f405\fswiss\fcharset238\fprq2 Impact CE;}{\f406\fswiss\fcharset204\fprq2 Impact Cyr;}{\f408\fswiss\fcharset161\fprq2 Impact Greek;}
+{\f409\fswiss\fcharset162\fprq2 Impact Tur;}{\f410\fswiss\fcharset186\fprq2 Impact Baltic;}{\f411\fswiss\fcharset238\fprq2 Arial Black CE;}{\f412\fswiss\fcharset204\fprq2 Arial Black Cyr;}{\f414\fswiss\fcharset161\fprq2 Arial Black Greek;}
+{\f415\fswiss\fcharset162\fprq2 Arial Black Tur;}{\f416\fswiss\fcharset186\fprq2 Arial Black Baltic;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;
+\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}{\stylesheet{
+\nowidctlpar\widctlpar\adjustright \fs20\cgrid \snext0 Normal;}{\s1\sb240\sa60\keepn\nowidctlpar\widctlpar\adjustright \b\f1\fs28\kerning28\cgrid \sbasedon0 \snext0 heading 1;}{\s2\sb240\sa60\keepn\nowidctlpar\widctlpar\adjustright \b\i\f1\cgrid 
+\sbasedon0 \snext0 heading 2;}{\s3\sb240\sa60\keepn\nowidctlpar\widctlpar\adjustright \f1\cgrid \sbasedon0 \snext0 heading 3;}{\s4\sb240\sa60\keepn\nowidctlpar\widctlpar\adjustright \b\f1\cgrid \sbasedon0 \snext0 heading 4;}{
+\s5\keepn\nowidctlpar\widctlpar\adjustright \b\fs22\cgrid \sbasedon0 \snext0 heading 5;}{\s6\keepn\nowidctlpar\widctlpar\adjustright \b\fs20\cgrid \sbasedon0 \snext0 heading 6;}{\s7\keepn\nowidctlpar\widctlpar\adjustright \i\fs22\cgrid \sbasedon0 \snext0 
+heading 7;}{\s8\keepn\nowidctlpar\widctlpar\outlinelevel7\adjustright \i\fs22\ul\cgrid \sbasedon0 \snext0 heading 8;}{\s9\keepn\nowidctlpar\widctlpar\outlinelevel8\adjustright \fs22\ul\cgrid \sbasedon0 \snext0 heading 9;}{\*\cs10 \additive 
+Default Paragraph Font;}{\s15\fi-360\li360\nowidctlpar\widctlpar\adjustright \fs20\cgrid \sbasedon0 \snext15 List;}{\s16\fi-360\li720\nowidctlpar\widctlpar\adjustright \fs20\cgrid \sbasedon0 \snext16 List 2;}{\s17\fi-360\li720\nowidctlpar\widctlpar
+\jclisttab\tx720{\*\pn \pnlvlbody\ilvl0\ls4\pnrnot0\pndec }\ls4\adjustright \fs20\cgrid \sbasedon0 \snext17 \sautoupd List Bullet 2;}{\s18\li720\sa120\nowidctlpar\widctlpar\adjustright \fs20\cgrid \sbasedon0 \snext18 List Continue 2;}{
+\s19\sb120\sa120\nowidctlpar\widctlpar\adjustright \b\fs20\cgrid \sbasedon0 \snext0 caption;}{\s20\sa120\nowidctlpar\widctlpar\adjustright \fs20\cgrid \sbasedon0 \snext20 Body Text;}{\s21\nowidctlpar\widctlpar\adjustright \fs22\cgrid \sbasedon0 \snext21 
+Body Text 2;}{\s22\sa120\nowidctlpar\widctlpar\adjustright \fs20\cgrid \sbasedon20 \snext22 Reference Line;}}{\*\listtable{\list\listtemplateid1353852300\listsimple{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0
+{\leveltext\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li720\jclisttab\tx720 }{\listname ;}\listid-125}{\list\listtemplateid-1\listsimple{\listlevel\levelnfc0\leveljc0\levelfollow0\levelstartat0\levelspace0\levelindent0{\leveltext
+\'01*;}{\levelnumbers;}}{\listname ;}\listid-2}{\list\listtemplateid0{\listlevel\levelnfc0\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720 }{\listlevel\levelnfc0\leveljc0\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'01.;}{\levelnumbers\'01;}\fi-360\li1440 }{\listlevel\levelnfc0\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'02.;}{\levelnumbers\'01;}\fi-360\li2160 }{\listlevel
+\levelnfc0\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'03.;}{\levelnumbers\'01;}\fi-360\li2880 }{\listlevel\levelnfc0\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'04.;}{\levelnumbers\'01;}
+\fi-360\li3600 }{\listlevel\levelnfc0\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'05.;}{\levelnumbers\'01;}\fi-360\li4320 }{\listlevel\levelnfc0\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'02\'06.;}{\levelnumbers\'01;}\fi-360\li5040 }{\listlevel\levelnfc0\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'07.;}{\levelnumbers\'01;}\fi-360\li5760 }{\listlevel\levelnfc0\leveljc0\levelfollow0\levelstartat0
+\levelspace0\levelindent0{\leveltext\'00;}{\levelnumbers;}}{\listname ;}\listid2}{\list\listtemplateid67698703\listsimple{\listlevel\levelnfc0\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'00.;}{\levelnumbers\'01;}\fbias0 
+\fi-360\li360\jclisttab\tx360 }{\listname ;}\listid399250341}{\list\listtemplateid67698689\listsimple{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat8\levelspace0\levelindent0{\leveltext\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li360
+\jclisttab\tx360 }{\listname ;}\listid1099521053}{\list\listtemplateid67698703\listsimple{\listlevel\levelnfc0\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'00.;}{\levelnumbers\'01;}\fbias0 \fi-360\li360\jclisttab\tx360 }
+{\listname ;}\listid1690597511}{\list\listtemplateid67698703\listsimple{\listlevel\levelnfc0\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'00.;}{\levelnumbers\'01;}\fbias0 \fi-360\li360\jclisttab\tx360 }{\listname 
+;}\listid1961455767}}{\*\listoverridetable{\listoverride\listid-125\listoverridecount0\ls1}{\listoverride\listid-125\listoverridecount0\ls2}{\listoverride\listid-125\listoverridecount0\ls3}{\listoverride\listid-125\listoverridecount0\ls4}
+{\listoverride\listid-125\listoverridecount0\ls5}{\listoverride\listid-125\listoverridecount0\ls6}{\listoverride\listid-125\listoverridecount0\ls7}{\listoverride\listid-125\listoverridecount0\ls8}{\listoverride\listid-125\listoverridecount0\ls9}
+{\listoverride\listid-125\listoverridecount0\ls10}{\listoverride\listid-125\listoverridecount0\ls11}{\listoverride\listid-125\listoverridecount0\ls12}{\listoverride\listid-125\listoverridecount0\ls13}{\listoverride\listid-125\listoverridecount0\ls14}
+{\listoverride\listid-125\listoverridecount0\ls15}{\listoverride\listid-125\listoverridecount0\ls16}{\listoverride\listid-125\listoverridecount0\ls17}{\listoverride\listid-125\listoverridecount0\ls18}{\listoverride\listid-125\listoverridecount0\ls19}
+{\listoverride\listid-125\listoverridecount0\ls20}{\listoverride\listid-125\listoverridecount0\ls21}{\listoverride\listid-125\listoverridecount0\ls22}{\listoverride\listid-125\listoverridecount0\ls23}{\listoverride\listid-125\listoverridecount0\ls24}
+{\listoverride\listid-125\listoverridecount0\ls25}{\listoverride\listid-125\listoverridecount0\ls26}{\listoverride\listid2\listoverridecount8{\lfolevel\listoverridestartat\levelstartat1}{\lfolevel\listoverridestartat\levelstartat1}{\lfolevel
+\listoverridestartat\levelstartat1}{\lfolevel\listoverridestartat\levelstartat1}{\lfolevel\listoverridestartat\levelstartat1}{\lfolevel\listoverridestartat\levelstartat1}{\lfolevel\listoverridestartat\levelstartat1}{\lfolevel\listoverridestartat
+\levelstartat1}\ls27}{\listoverride\listid-2\listoverridecount1{\lfolevel\listoverrideformat{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat0\levelold\levelspace0\levelindent360{\leveltext\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li720 }}
+\ls28}{\listoverride\listid-125\listoverridecount0\ls29}{\listoverride\listid1961455767\listoverridecount0\ls30}{\listoverride\listid399250341\listoverridecount0\ls31}{\listoverride\listid1690597511\listoverridecount0\ls32}{\listoverride\listid1099521053
+\listoverridecount0\ls33}}{\info{\title Application \'96file, print, message, database, application svcs}{\author ramesh}{\operator Computer Expert}{\creatim\yr1999\mo6\dy13\hr19\min18}{\revtim\yr1999\mo8\dy9\hr17\min37}
+{\printim\yr1999\mo6\dy12\hr22\min52}{\version58}{\edmins821}{\nofpages9}{\nofwords6387}{\nofchars-32766}{\*\company levin research}{\nofcharsws0}{\vern71}}\margl720\margr720\margt576\margb662 
+\widowctrl\ftnbj\aenddoc\hyphcaps0\formshade\viewkind1\viewscale95\pgbrdrhead\pgbrdrfoot \fet0\sectd \linex0\headery0\footery0\sectdefaultcl {\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang{\pntxta .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang
+{\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang{\pntxta .}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang{\pntxta )}}{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang
+{\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl8\pnlcltr\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}\pard\plain 
+\s1\sb240\sa60\keepn\nowidctlpar\widctlpar\tx3690\outlinelevel0\adjustright \b\f1\fs28\kerning28\cgrid {\f0\fs22 Cram Overview
+\par 
+\par OSI Layers: }{\b0\f0\fs22\ul It allows changes in one layer to occur without changing other layers}{\b0\f0\fs22 , }{\b0\f0\fs22\ul It clarifies what general function is to be done rather than how to do it}{\b0\f0\fs22 . }{\f0\fs22 
+\par }\pard\plain \nowidctlpar\widctlpar\tx8856\tx8892\adjustright \fs20\cgrid {\field{\*\fldinst {\fs22 PRIVATE}{{\*\datafield 
+020203001a020000000001a600000000010000000100010001000000000000009024010000001a02000000000000000000000000000000000000010000000100000000000000000000000000000000000000000000315a4a009f5a4a001b020000bd5a4a001c03000092150000921500008c00000001000000000000000000
+00000000000000000000000000001c040000fd0e0000fd0e00008d090000010000000000000000000000000000000000000000000000000000000000000000000000000000004d2046004c4553000020000057000000000000000000000049435200534f4600204f46004943450000160000570000006f007b000000000046
+4649004500000000020100920fa00000400000000000000000040010000000000000}}}{\fldrslt }}{\b\fs22 Application}{\fs22  \endash file, print, message, database, application svcs. }{\fs22\ul identifying communication partners}{\fs22 , }{\fs22\ul 
+determining resource availability}{\fs22 , and }{\fs22\ul synchng sending & receiving applictns}{\fs22 , Eg: SMB, NCP, Telnet, FTP, WWW and SMTP, File Transfer Access and Mangt (FTAM), Virtual Term Proto (VTP), and Common Mangt Info Proto (CMIP).
+\par }{\b\fs22 Presentation-}{\fs22\ul Negotiating data xfer Syntax}{\fs22 , Data encryption, compression, translation, coding and conversion functions. Eg. ASCII, EBCDIC, JPEG, GIF, TIFF, MPEG, PICT, MIDI, QuickTime, \line }{\b\fs22 Session}{\endash }{
+\fs22\ul Dialog Control}{\fs22 -}{\fs22\ul establishes, manages, maintains, and terminates sessions between applications}{\fs22 , communication sessions consist of service requests and service responses that
+ occur between applications located in different network devices. Eg. NFS (sun), SQL, RPC, X window, ASP, Zone Info Proto (ZIP), and Session Control Proto (SCP).\line }{\b\fs22 Transport-}{\fs22\ul End-End conn}{\fs22 , }{\fs22\ul 
+hides info from upper layer}{\fs22 , }{\fs22\ul gives transparent data transfer}{\fs22 , segments and reassembles data into data streams. responsible for both reliable and unreliable end-to-end logical conn. does }{\fs22\ul 
+flow control, windowing, acknowledgement}{\fs22 , }{\fs22\ul multiplexing}{\fs22 , }{\fs22\ul virtual circuit management}{\fs22 , }{\fs22\ul session establishment}{\fs22  and error checking and recovery. 
+\par Eg. TCP, UDP, SPX, Name Binding Protocol (NBP), Nwlink, NetBeui, ATP, NBP. \line }{\b\fs22 Network}{\fs22 
+-Routing-uses logical addressing to provide routing and related functions that allow multiple data links to be combined into an internetwork. supports both connection-orient
+ed and connectionless service from higher-layer protocols. protocols are typically routing protocols. BGP, OSPF, DLC, DecNet, ICMP,  RIP, NLSP,  IGRP, EIGRP, Packets and datagrams are sent across this layer.  
+\par }\pard \nowidctlpar\widctlpar\adjustright {\b\fs22 Data Link}{\fs22 -}{\fs22\ul Framing-putting 1\rquote s & 0\rquote s in to a logical group,}{\fs22 
+ provides reliable transmission of data across a physical medium. specifies different network and protocol characteristics, including physical addressing, network topology, error notification, sequencing of frames, and flow control. two sublaye
+rs known as the Media Access Control (MAC) and the Logical Link Control (LLC) layer. }{\b\ul LLC}{\fs22 - Provides flexibility to upper & lower protos. Respon timing, flow control, supports both conn less &  conn oriented svcs used by upper protocols. }{
+\b\ul MAC}{\fs22 -respon for frami
+ng, access to physical net media.Eg. ARP.  DLL implementations are LAN or WAN specs. LAN imples- Ethernet/IEEE 802.3, Fast Ethernet, FDDI, and Token Ring/IEEE 802.5,WAN imples.-Frame Relay, LAPB, SDLC, HDLC, X.25, SLIP, PPP. 
+\par }\pard \nowidctlpar\widctlpar\tx8892\adjustright {\b\i MAC Add. }{\i\fs22 : 6 bytes ( 3 bytes- vendor code, 3 bytes- Serial No.)
+\par }{\b\i Ethernet_II }{\b\fs22 -}{\fs22 PreAmb8-DA6-SA6-Type2(upper layer proto ID)-Data-FCS 4 (Cyclic Redundancy Checksum).
+\par }{\b\i 802.2_Ethernet}{\b\i\fs22 -}{\fs22 PreAmb8-DA6-SA6-Length-}{\fs22\ul DSAP-SSAP(802.2 LLC header)}{\fs22 -Data-FCS.(MAC & LLC)
+\par }{\b\i 802.3_Ethernet}{\b\fs22 -}{\fs22 PreAmb8-DA6-SA6-Length-Data-FCS (MAC) }{\fs22\ul (CSMA/CD-IEEE-802.}{\fs22 3) }{\fs22\ul can\rquote t identify up layer protos}{\fs22 .}{\b\fs22 
+\par }{\b\fs12\ul 
+\par }{\b\fs22\ul Physical}{\fs22 -}{\b defines}{\b\fs22\ul  }{\b Bit synch & Physical topology}{\fs22 , Specs define such as voltage levels, timing of voltage changes, physi
+cal data rates, max  trans distances, and the physical conntrs be used. Eg. FDDI, SONET, ISDN. (Stds: v.24, v.35, x..21, G.703 ),  LAN-imples-Ethernet/IEEE 802.3, Fast Ethernet, FDDI, and Token Ring/IEEE 802.5. 
+\par WAN-imples- High-Speed Serial Interface (HSSI),  SMDS Interface Protocol (SIP), and X.21bis. 
+\par }\pard \nowidctlpar\widctlpar\adjustright {\fs22 10Base2-ThinNet-RG58-BNC-185 Mtrs,            100BaseT4-100MB,Cat 3/4/5, 802.3
+\par 10Base5-ThickNet-RG8-DIX/AUI-500Mts,       100 BaseTx-Cat5-STP-100 Mtrs.(Fast Enet over STP/802.3),
+\par 10BaseT-Cat3/4/5-100Mts.                                  100Base Fx-100MB,2 pr OFC 802.3 
+\par 10/100Base FL-OFC-2 Km,                                 100Base VG Any LAN-OFC, 802.3 (Cisco does not support it)
+\par }{\b\i                                                                                       }{\fs22\ul 100BaseT-  CSMA/CD, 802.3u,  Fast Enet, 
+\par }{\b\fs6\ul 
+\par }{\b\fs22\ul DOD Model}{\b  : }{\b\i Proc / Appl}{\b\fs18  }{\fs22 : Telnet, FTP, LPD SNMP/ FTP, SMTP, NFS, X window,  }{\b\i Host-Host}{\fs22  : TCP,UDP, 
+\par }{\b\i Internet :}{\fs22  ICMP, BootP, ARP, RARP/IP,  }{\b\i Net Acc : }{\i\fs22 Ether Net, Fast Enet, Token Ring, FDDI.}{\fs22 
+\par }{\b\i\ul Tcp/udp:}{\b\i  port Nos.}{\fs22  }{\b\i 0-255}{\fs22 :used for public appl,}{\b\fs22  }{\b\i 255-1023}{:}{\fs22  for comp to use their appl; }{\b\i >1023}{\fs22  for upper layers sessions with other Hosts. }{\b\i Tcp :}{\fs22 
+  virtual ckt, conn oriented, sequenced, ackd, reliable, high o/h,  }{\b\fs22 U}{\b\i dp:}{\fs22   unsequenced, unreliable, connless, low o/h. ftp>tcp21, telnet>tcp23, smtp>tcp25, tftp>udp69,  snmp>udp161, tcp>ip6, udp>ip17 
+\par }{\b\i\ul Data Flow }{\b\i : }{\fs22  User info is converted to }{\b\i Data(7,6,5}{\i\fs22 )}{\fs22 , }{\i\fs22 Data}{\fs22   converted to }{\b S}{\b\i egments(4}{\i\fs22 )}{\fs22 ,  S}{\i\fs22 egments}{\fs22  converted  to  }{\b P}{\b\i ackets}{\b  or}{
+\fs22  }{\b\i datagrams(3}{\i\fs22 ), Packets}{\fs22  and }{\i\fs22 datagrams}{\fs22  are converted to }{\b\i frames(2}{\i\fs22 ),  Frames}{\fs22  are converted  to  }{\b\i bits(1}{\i\fs22 )}{\fs22 .
+\par }{\b\i\ul ICMP}{\fs22  Inet Contr Mess Proto: Alerts routers if : Destn unreach, Buffer full, Hops-demise, ping uses ICMP+IP, 
+\par }{\fs22\ul sends  redirects  back  to  origi  router}{\fs22 .   }{\b\i SNMP}{\fs22 : Simple Net Mngmt Proto- used to manage & Monitor Net, 
+\par }{\b\i RARP server}{\fs22 - gives IP add against MAC add to diskless comp, }{\b\ul BootP}{\fs22\ul - gives IP add & boots diskless comp/w stns.}{\fs22 
+\par }{\b ARP}{\fs22 - layer3 proto, Source & Destn H/w add keeps changing, but IP add remains same as pkt travels thro\rquote  routers.
+\par }{\b\fs10\ul 
+\par }{\b\ul LAN Segmentation}{\fs22 : breaking up the collision domains by decreasing the number of workstations per segment.
+\par }{\b\i Full Duplex Ethernet}{\b  }{\fs22 : needs }{\fs22\ul full duplex NIC cards}{\fs22 , }{\fs22\ul Loop back and collision disabled}{\fs22 , }{\fs22\ul 2 x 10/100 MB paths}{\fs22 , }{\fs22\ul software driver supporting two simultaneous data paths}{
+\fs22 , }{\fs22\ul Adherence to Enet Stds.}{\fs22   
+\par }{\b\i Fast Ethernet}{\i\fs22  }{\fs22 (100MB)- provides 10  times the bandwidth of older 10bastT Ethernet. Must have Cat5 cable, no longer than 100 meters, and Fast Ethernet NIC\rquote s and Hubs/Switches.
+\par }{\b\fs22 
+\par Gateway}{\b \endash }{\fs22 used for comm between diff  NOS Eg. NT & IBM SNA,takes the pkt strips off the old protocol and repackages for the receiving network- proto translation (Trans, sessio, prestn, appli).
+\par }{\b Router}{\b\fs22 -}{\fs22 Filters by both HW add & IP add.}{\b\fs22  }{\fs22\ul strip off data link sourc & dest add & recreates it}{\fs22 . Provides }{\fs22\ul flow control}{\fs22 , }{\fs22\ul manageability}{\fs22 , }{\fs22\ul 
+Explicit pkt life time control}{\fs22 , more functionality, }{\fs22\ul multi paths}{\fs22 , segments net, links unlike phys media, stops broadcasts, no un routable Net protos ,  }{\b Brouter}{\fs22 
+- will act as router and bridge based on protocols. (DLL, Network).
+\par }{\b Bridge}{-}{\fs22 Segs net, filters traff by MAC add, regenerates signal at pkt level, }{\fs22\ul reliability}{\fs22 , }{\fs22\ul availability}{\fs22 , }{\fs22\ul scalability}{\fs22 , }{\fs22\ul manageability}{\fs22 
+, latency, pass broadcasts, no unlike med (DLL,mac sub). }{\b Switch}{\fs22 -Duplex, filters trafiic on MAC add, pass broadcasts, (DLL) }{\b Repeater}{\fs22 - regenerates signals for tx, pass broadcasts, no unlike phys media. (Physical). 
+\par }{\b Hubs-}{\fs22  one tx, all other rx, simplex, no addressing(Physical).}{\b Multiplexe}{r}{\fs22 - for multiplexing links.(Physical)
+\par }{\b\i Repeater}{\fs22  reduces dist for 100BaseFx due to delays, but extends 100BaseTx dist. }{\b Class1}{\fs22 :Translational rptr supports both 100baseX and 100baset4 signalling. Delay=140 bit times,}{\b  Class 2}{\fs22 
+:Transparent rptr only supports either 100baseX or 100baseT4, not both at same time.delay=92 bit times. }{\b FastHub300}{: }{\fs22 Rptr compatible with 802.3u for}{ }{\fs22 fast Enet.}{\b 
+\par }{\b\fs12 
+\par }{\b LAN Switching}{\b\fs22  :  }{\fs22 Uses dest MAC add to forwd pkts. same as multi port Bridge. Multi simultaneous convs, high speed data exges, low latency & high frame fowd rates, full duplex, media rate adaption (10/100). }{\b Port Switching}{
+\fs22 : port assigned to a phys net by software. }{\b Frame Switching}{\fs22 : increases b/w on the net. Allows multi trans in parallel. used in Cisco Cata switch. }{\b Cell Switching}{\fs22 
+: ATM. Uses small fixed length cells that are switched on the net. Used in Cisco light stream switches. 
+\par }{\b\fs12 
+\par }{\b Router Switching : Store & Forward}{:}{\fs22  copies entire frame in to buffers and checks CRC. Forwards 64-1518 Bytes only. }{\fs22\ul latency high depends on  Frame Length}{\fs22 . used in cat 05000/5505 series. }{\b Cut-through (Real Time}{): }{
+\fs22 copies only dest add (6B) in to buffers. some switches automly uses both modes, Low latency, 10/100mb full duplex  }{\b Fragment Free}{\fs22 : modified cut thro. Waits for collision window (first 64 B). Better error checking,  no latency.
+\par }{\fs12 
+\par }{\b Spanning-Tree Protocol}{\fs22  (STP) }{\b IEEE}{\fs22  }{\b 802.1d- }{\fs22 to prevent routing loops. STA (Spanning-Tree Algorithm) is impled by STP to calculate a loop-free net topology. In Cat 5000 based nets }{\i\fs22 Bridge proto data units}{
+\fs22  (BPDU) are sent & recd by all switch in regular intervals & processed to determine spanning-tree  topology. 
+\par }{\b\fs12 
+\par }{\b Virtual LAN\rquote s-}{\fs22 have diff ports of a switc
+h be parts of diff  sub nets.  can be by location, function, grp & dept. Simplify moves, adds, changes. less admn costs, better control of broadcasts, tighten net security, distribute load, Relocate server into secured locations. }{\b Frame tagging}{
+\fs22 : A user defined ID for each frame,  places a unique user defined ID in the header of each frame used within switch fabric itself. Used in Cat 3000 & 5000 series. Developed  for multi  VLAN, Inter switch Commn, needs processor & admn  load.
+\par }{\b\fs12 
+\par }{\b IP Address Classes:
+\par }\pard \nowidctlpar\widctlpar\tx1095\tx3301\tx3975\tx5505\tx8385\adjustright {\fs22 (2)192-2-4194302-16382-62     Class A  Net.Node.Node.Node  0   1-127       127 net    16777214 nodes
+\par }\pard \nowidctlpar\widctlpar\adjustright {\fs22 (3)224-6-2097150-8190-30       Class B  Net.Net.Node.Node   10   128-191   16384 net      65534 nodes
+\par (4)240-14-1048574-4094-14     Class C  Net.Net.Net.Node    110   192-223   2097152 net      254 nodes 
+\par (5)248-30-524286-2046-6          (net/node all 0-this net/node, all 1-all net/node) (127-loopback add )
+\par (6)252-62-262142-1022-2          (entire IP all 0-cisco default route, all 1-broadcast to all nodes)
+\par (7)254-126-131070-510-na        Max # of Subnets: 2}{\fs22\super (masked bits)-}{\fs22 2, Max # of Hosts / subnet : 2}{\fs22\super (unmasked bits)}{\fs22 -2
+\par (8)255-254-65534-254-na          Class D-224-239-Multicasts, Class E- 240-255-Future.
+\par }\pard\plain \s5\keepn\nowidctlpar\widctlpar\outlinelevel4\adjustright \b\fs22\cgrid {\b0 Directed / only subnet broadcast add- 172.16.3.255,  Flooding / total Network broadcast add- 172.16.255.255
+\par }\pard\plain \nowidctlpar\widctlpar\adjustright \fs20\cgrid {\fs8 
+\par }\pard\plain \s5\keepn\nowidctlpar\widctlpar\outlinelevel4\adjustright \b\fs22\cgrid {\fs24\ul Cisco Routers}{\ul  :}{\b0 
+\par }\pard\plain \nowidctlpar\widctlpar\adjustright \fs20\cgrid {\b 2500}{\fs22  : }{\fs22\ul Cons port- async serial por}{\fs22 t RJ45 60 Pins, }{\fs22\ul Aux port- Modem RJ45}{\fs22 
+,Telnet port - Ethernet 0, (S0,S1-serial port),  External ports - TFTP server, Virtual Term, Net Mngmt Stns. }{\b ROM}{\fs22 -holds Bootstrap Startup programs, OS software, POST. }{\b Flash}{\fs22 -}{\b EEPROM}{\fs22 -holds }{\b cisco IOS image}{\fs22 
+ and Microcode,  }{\b RAM}{\fs22 -holds running OS, }{\b running config}{\fs22 , provides caching & pkt filtering. }{\b NVRAM}{\fs22 -Stores }{\b startup config}{\fs22 ,       }{\b\ul config mem}{\fs22\ul : executes NVRAM commands, copies start to Run,}{
+\fs22  
+\par }{\b\ul config net }{\i\ul [i}{\i\fs22\ul p add of  tftp serv]:}{\fs22\ul  load config info from TFTP server}{\fs22 , }{\b Config t}{\fs22 : console / telnet (config from my term)}{\b\ul 
+\par }{\b Catalyst 5000}{\fs22  : to config port, type slot/port (}{\b e 4/2 }{\fs22 for Ethernet, card 4, port 2), }{\b Catalyst 7000 / 7500 VIP }{\fs22 (versatile int  processor  cards): type slot/port adapter/port; }{\b e 2/0/1,  }{\fs22 
+3 rd  Enet vip card3, first port 0, 2 nd  Enet Int.}{\b\ul 
+\par }{\b\fs12\ul 
+\par }{\b\ul Auto Install }{\fs22 : config router autoly and remotely. New router acts as BootP work stn & gets IP from existing router acts as BootP or RARP server, connects to TFTP server, gets network-config, hostname-config/router-config files.  }{\b\ul 
+
+\par }{\b\i BootP server}{\fs22 : provides (by TFTP) stn.IP add, server IP add and the name of the file to be loaded and booted. 
+\par }{\b\fs12\ul 
+\par }{\b\ul Modes}{\b : User EXEC : }{\fs22 After log in, you are automly in this mode, basic tests, temp term setup, conn to remote devices (router>), logout to exit, }{\b Privileged EXEC}{\fs22 
+: Set OS params, config, debug,(router#) Quit/Exit to exec mode, }{\b ROM monitor}{\fs22 : Occurs when no cisco IOS image found / boot interrupt (rommon>), }{\b Set up}{\fs22 : occurs on first switch on}{\b , RxBoot}{\fs22 
+ : reboot from ext (router<boot>), }{\b Global config Mode}{\fs22 : router(config)> commands affects whole system, exit/end to pre mode   
+\par }\pard \nowidctlpar\widctlpar\tx3960\adjustright {\b Interface Config mode}{\fs22 : router(config-if)#  comm for config single int.
+\par }\pard \nowidctlpar\widctlpar\adjustright {\b\fs24\ul Editing}{\fs22\ul :}{ }{\b Ctrl+A}{\fs22 -beging of  line, }{\b Ctrl+E}{\fs22 -end of line, }{\b Ctrl+F(R }{\fs22 arrow)-move fwd 1 char}{, }{\b Ctrl+B(L }{\fs22 arrow)- back 1 char, }{\b\fs18 Ctrl+P}{
+\b (U }{\fs22 arow)-scroll/Rpt prev comm, }{\b Ctrl+N(D}{\b\fs22  }{\fs22 arow)-recent comm recall, }{\b Esc+F}{\fs22 -move fwd 1 word, }{\b Esc+B}{\fs22 -back 1 word.
+\par }\pard\plain \s6\keepn\nowidctlpar\widctlpar\outlinelevel5\adjustright \b\fs20\cgrid {\b0 R>}{terminal editing / terminal no editing : }{\b0\fs22 advanced editing features on / off.  R> }{enable / disable }{\b0\fs22 :  privileged mode on / off}{  
+\par }{\b0 R>}{sh history-}{\b0\fs22 sh comm buffer}{\b0 , R}{>term history size}{\b0\fs22 - set comm buffer size,}{ Tab: }{\b0\fs22 Completes comm entry,}{\b0 
+\par }{Passwords: }{\b0\fs22 config t,}{  }{\b0\fs22 Enable secret x,     enable password x,    line vty 0, login, pw x;          line aux 0, login, pw x;                 line con 0, login, pw x;   }{  }{\ul Banner: }{\b0\fs22\ul config t, banner motd #, xxx #
+}{\ul  }{;   }{\ul Hostname: }{\b0\fs22\ul config t, hostname  [newhostname}{\ul ] }{
+\par }\pard\plain \nowidctlpar\widctlpar\adjustright \fs20\cgrid {\b Shutting down }{\fs22 : config t,  # int s0, # shutdown (Admntly  down)      # no shut down (Turn on)
+\par }{\b\fs18 DTE/DCE}{\b   Cable}{\fs22 : router use synch comm, needs clk, }{\b\i clock  rate}{\fs22  on DCE.+ specify }{\b\i bandwidth}{\b  }{\fs22 (for IGRP), Config t, int s0, }{\b\ul clock  rate  56000}{\fs22 , }{\b\ul bandwidth  56}{\fs22 
+. def clk rate-T1, R# }{\b\i\fs22 s}{\b\i how controllers  s0}{\fs22 - Identifies serial port cable as DTE or DCE cable. 
+\par }\pard\plain \s6\keepn\nowidctlpar\widctlpar\outlinelevel5\adjustright \b\fs20\cgrid {CSU/DSU : }{\b0\fs22 Chl svc unit/Data svc unit. Handles clocking on serial ports (WAN links), not used by Cisco router.}{ 
+\par }\pard\plain \nowidctlpar\widctlpar\adjustright \fs20\cgrid {\b Token Ring Speed : }{\fs22 # int token ring 2/0,  # early token release, # ring-speed 16 (4-16 mb), 
+\par }{\b Media type :}{\fs22  # int e1,  # media type 10baseT, }{\b Clock set}{\fs22 : R}{\b\i\ul # clock  set 11: 02: 01  04  August 1999}{\fs22 
+\par }{\b\fs12\ul 
+\par }{\b\i\fs22\ul Config Comm: }{\fs22\ul RouterR#}{\b\i    sh  startup-config/config}{\fs22 : contents of  NVRAM,  }{\b\i sh  running-config}{\fs22 : contents of  RAM, 
+\par }{\i R#}{\b\i  erase startup-config }{\i (}{\b\i write erase}{\fs22 )- erases NVRAM, starts initial config dialog, R# }{\b Setup}{\fs22 : starts initial config dialog, 
+\par }{R# }{\b write term}{\b\fs22 -}{\fs22 sh run config}{, }{\b write mem- }{\fs22 copy run  start}{\b\i , }{\b config mem}{\b\i - }{\fs22 copy start run}{\b\i , }{\b config net }{\fs22 [ip ad of tftp ser]-lod config frm tftp, }{\b write network/}{\i R# }{
+\b\i copy run tftp}{\fs22  (}{\i\fs22 backup, ram>tftp serv),}{\fs22  }{\b\i copy tftp run}{\fs22  }{\i\fs22 (restore),}{\b  }{R# }{\b reload}{: }{\fs22 lod startup confi to mem, }{\i\fs22 
+\par }{\b\fs12\ul 
+\par }{\b\i\fs22\ul IOS Comm}{\b\i : }{\i\fs22 R}{ }{\b\i # copy flash tftp }{\fs22 (ios backUp), }{\b\i # copy tftp flash }{\fs22 (ios restore), }{\fs22\ul  }{\i\fs22\ul Fallback}{\fs22 -gives  alternative IOS loading booting sources: config t, # }{\b\i\ul 
+boot system flash }{\i\fs22\ul [ios_filename}{\i ]}{\b\i ,  }{\b\i\ul boot system TFTP }{\i\fs22\ul [ios_filename}{\i\ul ]}{\b\i\ul  }{\i\fs22\ul [}{\b\i\fs22\ul  }{\i\fs22\ul TFTP_ip add}{\i ]}{\b\i ,  }{\b\i\ul boot system  ROM
+\par }{\i R#}{\b\i  erase}{\fs22 - erases flash, }{\b\i # delete}{\fs22 - (if multi flash), if ext flash card }{\b\i # delete}{\fs22 -only marks the IOS, }{\b\i # squeeze}{\fs22 -deletes IOS.     
+\par }{\i R}{\b\i # sh flash}{\fs22 -flash mem stat, all IOSs file name, }{\b\i # sh version}{\fs22 -sh current IOS file (if multi flash),}{\b\i  }{\i\fs22 hw config, sw ver, Register setting, boot}{\i  images}{\fs22 , }{\b\i sh process: }{\i\fs22 
+active process, cpu utilzn}{\i ,  }{\b\i sh mem}{\i\fs22 : mem allctn stat}{\i ,  }{\b\i sh stacks- }{\i\fs22 sh reason for crash/reboot,}{\b\i  
+\par }{\i R#}{\b\i  sh buffer}{\i\fs22 - sh buffer stat}{\b\i ,  sh int}{\i - }{\i\fs22 sh all int config}{\i ,}{\b\i    sh proto}{\fs22 : sh all layer3 proto config}{\b\i ,   sh ip proto}{\i\fs22 - IP proto in detail}{\b\i 
+\par }{\b\i\fs12\ul 
+\par }\pard \nowidctlpar\widctlpar\tx3870\adjustright {\b\i\fs22\ul Cisco Discovery Protocol (CDP}{\i\fs22 ): }{\fs22 
+allows access config info on other routers with single command, uses SNAP broadcasts at DLLayer. CDP starts by default (ver10.3/later) & discovers neighboring routers running CDP thro data link broad. updates: 60 sec, holdtime: 180 sec, # config t, #}{
+\i\fs22  }{\b cdp timer 60}{\i\fs22 , # }{\b\i cdp holdtime 180  }{\i\fs22 (global), R}{\b\i # sh cdp  int}{\i\fs22 : }{\fs22 int stat, config info, encaps, cdp timers. R}{\b\i # sh cdp entry */ routerA}{\i\fs22 : * sh}{\fs22 ows info recd from
+ all routers / only router A.}{\i\fs22  R}{\b\i # sh cdp neighbors}{\i\fs22 : }{\fs22 
+shows cdp updates (device ID, local int/port, holdtime, capability, platform5000, neibhor port ID) (capa- R router, T trans bridge, B source route bridge, S switch, H host, I igmp),  R}{\b\i # sh cdp neighbors detail}{\i\fs22 : }{\fs22 
+shows cdp enrty+ sh cdp neighbors  
+\par }{\i\fs22 R}{\b\i # sh cdp traffic}{\i\fs22 :}{\fs22  reveals amount of pkts sent & recd among neighbors;    config t, # }{\b no cdp run}{\fs22  (cdp off-all int-router), 
+\par # config int, # }{\b no cdp enable}{\fs22  (cdp off- single int)}{\i\fs22 
+\par }\pard \nowidctlpar\widctlpar\adjustright {\b\i\fs14\ul 
+\par }{\b\i\fs22\ul Telnet : Virtual Term conns:}{\i\fs22  }{\fs22 part of  tcp/ip proto allows  to connect to remote hosts and routers. Cisco supports 5 simultaneous (vty 0 4) telnet sessions.}{\i\fs22  R}{\b\i # telnet }{\i\fs22 [ip add}{\i ], }{\fs22 
+ip add of any active int on the router}{\i\fs22 . R}{\b\i # exit}{\i\fs22 : }{\fs22 to close session}{\i\fs22 .}{\i  }{\i\fs22 
+\par }{\b\i Ctrl+shift+6 X}{\i\fs22  : }{\fs22 return to org router w/o closing telnet}{\i\fs22 . }{\b\i # 1, return}{\fs22 : takes back to telnet session}{\i\fs22   
+\par }{\i R#}{\b\i  sh sessions }{\i\fs22 :}{\fs22  sh all telnet sessions/conn no, host, add, byte, idle, conn name.}{\i\fs22 
+\par }{\b\i\fs14\ul 
+\par }{\b\i\fs22\ul Hostnames:}{\b\fs22\ul  }{\fs22 router can resolve ip add to hostnames. Config t, # }{\b\i ip host  routerC  23  172.16.40.2 }{\i\fs22 (23 telnet port- optl),
+\par }{\i\ul R }{\b\i\ul # sh host / s}{\fs22 : sh all> hosts, flags (perm/temp, ok/ex), age (hrs), type (proto), ip add, t}{\b\i # no ip domain-lookup: }{\fs22 disables router  DNS lookup (enabled by default), to re-enable DNS lookup, t}{\b\i 
+# ip domain-lookup}{\fs22 , t}{\b\i # ip name-server 172.16.30.8 }{\i\fs22 (max 6 add)}{\fs22 
+\par }{\b\fs14\ul 
+\par }{\b\i\fs22\ul IP Add config}{\fs22 : config t, # }{\b\i int s0}{\fs22 , # }{\b\i IP address }{\i\fs22 [ ip-add] [ subnet-mask]}{\fs22  - config IP add, Subnet mask for serial int s0.
+\par # }{\b\i sh interfaces}{\fs22 -shows all interface types & their associtd IP adds. use CDP command to see IP add of neighbor routers.
+\par }{\b\i\fs12\ul 
+\par }{\b\i\fs22\ul Inter Network Testing }{\b\i\fs22 : }{\i\fs22 R#}{\b\i\fs22  }{\b\i telnet :}{\fs22  shows all layers are working, verify appl layer commn between  the  hosts.
+\par R# }{\b\i Ping}{\fs22  }{\i\fs22 172.16.10.1- }{\fs22 uses IP & ICMP proto to verify commn at Inet layer between hosts}{\i\fs22  }{\fs22 (! echo replay recd}{\b\fs22 , .}{\fs22  time out, 
+\par U dest  un reachable, C congested exp pkt, |  ping interupted, ? pkt type unknown, & pkt TTL exceeded.) 
+\par }\pard\plain \s5\keepn\nowidctlpar\widctlpar\tx5670\outlinelevel4\adjustright \b\fs22\cgrid {\b0\i R}{\i # }{\i\fs20 trace ip }{\b0\i 172.16.40.2 }{\b0 uses TTL values}{\b0\i  }{\b0 
+(!H-recd probe not forward due to access list, P proto un reach, N net unreach, 
+\par U port unreach,* time out, }{\b0\ul (trace used in IP, AppleTalk, CLNS, Vines, Old Vines),}{ }{\b0 R}{\i\fs20 # sh int so}{ : }{\b0 shows line & data link 
+\par                          \tab     \tab proto  status,}{ }{\b0 R}{\b0\i # }{\i\fs20 debug all, # undebug all}{, 
+\par }{\fs24\ul IP Routing }{\fs24 : }{\b0 Source and Destn. Hardware add keeps changing, but IP add remains same as  pkt  travels thro\rquote  routers.
+\par }{\b0\i\ul Dest IP remains same, frame keeps changing at each hope b\rquote cos source, destn h/w add  keeps changing.  }{\fs24 
+\par }\pard \s5\keepn\nowidctlpar\widctlpar\tx3060\tx5670\outlinelevel4\adjustright {\fs20\ul Static Routing}{ }{\b0 config t,}{ }{\b0\i\ul # }{\i\fs20\ul ip route}{\ul  }{\b0\i\ul [rem net ID] [subnetmask] [def Gway,next hop }{\b0\i add }{\b0\i\f1 / }{
+\b0\i\f1\ul interface][distance}{\b0\i\ul ]- cisco boo}{\b0\i k 
+\par }{# }{\fs20 no ip route}{\b0  }{\b0\i [remote net ID]- }{\b0 to cancel a route}{, # }{\i\fs20 sh ip route}{\b0 -sh R table/all routes, #}{ }{\i\fs20 sh ip route static}{-}{\b0 sh only static routes, 
+\par }\pard\plain \nowidctlpar\widctlpar\adjustright \fs20\cgrid {\b # }{\b\i ip classless}{\b   }{\fs22 global command to use def routing with static routing to forward pkts destd to obscure subnets to best route. }{\b\ul Default Routing :}{ }{\fs22 
+default route = }{\i\fs22 router or gateway of last resort}{\b\i , }{\b\i\ul # ip route}{\ul  }{\i\fs22\ul [0.0.0.0] [0.0.0.0]  [gateway IP/next hop add}{\i\ul ]}{\b\i  }{# }{\b\i ip default-network}{\i  }{\i\fs22 
+192.68.17.0 : Default route as per Cisco book}{\b\i\fs22 ,  }{\i # }{\b\i no ip routing }{\fs22 (disable),}{\i  }{\b\i # ip routing}{\i  }{\fs22 (re enable)}{
+\par }\pard\plain \s6\keepn\nowidctlpar\widctlpar\outlinelevel5\adjustright \b\fs20\cgrid {\ul Dynamic Routing}{\i  }{\b0\i : }{\b0\i\fs22 Autonomous System(AS):}{ }{\b0\fs22 
+consists of  routers that share info using same protocol. Backbone + areas. Routing within area/domain-Intra Domain Routing, Ext / Inter domain / inter AS Routers  connect areas to backbone.}{\b0 
+\par }\pard\plain \nowidctlpar\widctlpar\tx3060\tx3510\adjustright \fs20\cgrid {\b\ul Codes}{\b\fs22\ul -}{\fs22  }{\b\i # sh ip route}{\fs22 - C-dir conntd, S-static, I-IGRP, R-RIP, M-mobile, B-BGP, D-EIGRP, EX-EIGRP ext,
+\par }\pard \nowidctlpar\widctlpar\adjustright {\fs22 O-OSPF, IA-OSPF inter area, E1- OSPF ext type1, E2-OSPF ext type2, E-EGP, I-ISIS, L1-ISIS lvl 1, L2-ISIS lvl 2.
+\par }{\b\i\ul Admn distance:}{\fs22  Source\rquote s trustworthiness 0-255 : Directly connected  Interface-0, Static route-1, EIGRP sum route-5, Ext BGP-20, Int EIGRP-90, IGRP-100, OSPF-110, ISIS-115, RIP-120, EGP-140, Int BGP-200, Unknown-255.
+\par }{\b\fs8\ul 
+\par }{\b\fs24\ul Interior Routing protos:}{\fs22 used within an AS. RIP, IGRP (Dist vect), OSPF (Link state), EIGRP (Bal Hybrid) all layer3.
+\par }{\b\i\fs6\ul 
+\par }{\b\i\ul Distance Vector}{\fs22 -RIP-uses 2}{\fs22\super nd}{\fs22  hand info, metric (hops 16 ),  slow conv. @  30 sec, routing loops, counting to infinity. 
+\par }{\b\i\ul To Stop Loops}{\fs22 : }{\b\i\ul Counting to infinity}{\i\fs22 /exceeding TTL: }{\fs22 max.16 loops, }{\b\i\ul Split Horizon}{\fs22 : stops info return, }{\b\i\ul Route Poisoning}{\i\fs22 :}{\fs22 
+ uses net unreachable entry (metric for down link = infinity), and triggered updates. }{\b\i\ul Hold Downs}{\fs22\ul  :}{\fs22  stops regular updates from reinstating down link, waits & watches status, work with route poisoning, and use triggered updates.
+
+\par }\pard\plain \s7\keepn\nowidctlpar\widctlpar\outlinelevel6\adjustright \i\fs22\cgrid {\b\fs20\ul Link State}{-}{\i0 
+ OSPF- uses LSP (hello pkts), topology Dbase, SPF algorithm, metric-65533, routing table. needs more power, memory, b/w, fast conv @ 2-12 hrs(uses DR designated Router), LSP time stamps,
+\par }\pard\plain \nowidctlpar\widctlpar\adjustright \fs20\cgrid {\b\i\ul Balanced Hybrid}{\i -}{\fs22 IS-IS, EIGRP: combines and uses best of both above. Link state triggers. }{\i\fs22\ul Classfull routing}{\fs22 
+: summarizing routing info by major network nos.(RIP, IGRP), }{\i\fs22\ul Classless and Prefix routing}{\i\fs22  :}{\fs22  allows contiguous blocks of hosts, subnets or nets  to be represented by a single route. }{\i\fs22\ul Cost= Path Cost:}{\fs22  base
+d on hope, bw, etc. to determine the best route. Lower the cost value better the path.}{\b\fs22   }{\i\fs22\ul Routing metric:}{\fs22 
+ method by which routing algorithm decides one route is better than other. Stored in routing table. Includes bw, comm cost, delay, hop count, load, MTU, path cost, and reliability.
+\par }\pard\plain \s22\nowidctlpar\widctlpar\adjustright \fs20\cgrid { }{\fs8 
+\par }\pard\plain \s5\keepn\nowidctlpar\widctlpar\outlinelevel4\adjustright \b\fs22\cgrid {\i\ul RIP:}{ }{\b0 
+dynamic, dist vect, classful routing proto, no support prefix routing. Provides IP dest add, metric-hop count (16), IP add of next router in the way, marker & flags (recent route change), timer, Hold downs, Split horizon, Poison rev, slow conv, loops. }{
+\b0\i\ul Timers}{\b0\ul : update-30sec, invalid-180sec, flush-240sec., hold-180sec, Admn Dist.: 120,}{\b0   
+\par }\pard\plain \nowidctlpar\widctlpar\adjustright \fs20\cgrid {\i\fs22\ul RIP pkt format}{\fs22\ul :}{\fs22  command1,ver no1, zero2, add family ID2, zero2, add4, zero4, zero4, metric4.
+\par }{\i\fs22\ul Enab RIP}{\fs22\ul :}{\fs22  cancel all stat/def routes, config t, }{\fs22\ul Enab RIP}{\i\fs22\ul (# }{\b\i\ul router rip)}{\i\fs22\ul ,}{\fs22\ul Enab net }{\i\fs22\ul (# }{\b\i\ul net work  x.x.0.0}{\i\fs22\ul )}{\i\fs22 ,  R# wr mem}{\i 
+
+\par }{\i\fs22\ul Testing RIP:}{\fs22  }{\i\fs22 # }{\b\i sh ip route rip, # ping }{\i\fs22 [add].}{\b  }{\b\i\ul Passive RIP}{\i\fs22 :}{\fs22  stops  router from advt to internet. Commands:  config t, 
+\par }{\b\i # router  rip,  # network 172.16.0.0,  # passive serial  1}{\b  }{\fs22 ( serial 1 connects  the local net to the internet), 
+\par }{\i\fs22\ul Neighbor RIP:}{\fs22  WAN link (frame relay) doesn\rquote t broadcast RIP update by default. use neighbor command  to solve this. 
+\par }\pard \nowidctlpar\widctlpar\tx5220\adjustright {\i\fs22 config}{\b\i  }{\i\fs22 t,}{\b\i  # router rip, # network 172.16.0.0, # neighbor 172.18.3.10}{\b .   }{\b\i\ul RIP Broadcast}{ }{\fs22 : sending update to 255.255.255.255}{\b\fs22  }{\fs22 via e0
+
+\par }\pard \nowidctlpar\widctlpar\adjustright {\i\fs22\ul Monitoring RIP}{\i\fs22 : R # }{\b\i sh ip route rip}{\i\fs22 -}{\fs22 sh only RIP routes}{\i\fs22 , # }{\b\i sh  ip  protocol}{\i\fs22 -}{\fs22 sh RIP timers, net ID, routing info sources,}{\i\fs22 
+
+\par }{\b\i # sh ip interface}{\i\fs22 : }{\fs22 shows interface config and statistics}{\i\fs22 , R# }{\b\i debug ip rip}{\fs22 : turns on RIP debugging-shows RIP updates live, 
+\par }{\b\i # undebug  ip  rip: }{\fs22 stops debug,}{\i  R # }{\b\i trace  172.16.50.2}{\i : }{\fs22 sh  path to dest  add}{\i , }{\i\fs22 config t}{\i  # }{\b\i no router rip}{\fs22 : stops running RIP proto.
+\par  }{\fs8 
+\par }\pard\plain \s5\keepn\nowidctlpar\widctlpar\outlinelevel4\adjustright \b\fs22\cgrid {\i\ul IGRP}{\b0\i\ul :}{\b0  Dist vect, cisco prop, scalability, fast convergence, multi paths (def 4, max 6) & uneq
+ual load balancing, Periodic & Flash updates, no VLSM, }{\fs20\ul complex metric}{\b0  (1-255) [delay-media speed (10mb=100=1ms), bw (1.2kb-10Gb), reliability (1-255optm), load (optm 0-255), MTU], hold down, poison rev, split horizon, 
+\par }{\b0\i\ul Timers}{\b0\ul : update-90s, invalid-270s, holddown-270+10s, Flush-630s, Admn Dist:100}{\b0 
+\par }\pard\plain \nowidctlpar\widctlpar\adjustright \fs20\cgrid {\i\fs22\ul IGRP routes}{\fs22  : }{\i\fs22\ul Interior}{\fs22\ul :}{\fs22  routes between subnets, }{\i\fs22\ul System}{\i\fs22 : }{\fs22 routes within AS, }{\i\fs22\ul Exterior}{\fs22\ul :}{
+\fs22  routes out side AS (1-65655). 
+\par }\pard\plain \s5\keepn\nowidctlpar\widctlpar\outlinelevel4\adjustright \b\fs22\cgrid {\b0\i\ul Enable IGRP}{\b0\ul :}{\b0  }{\b0\ul Enable IGRP with AS no}{\b0 . }{\b0\ul (config t,  }{\i\fs20\ul # router  igrp 10,   # network  172.16.0.0, #  wr mem}{\b0 
+ )
+\par }\pard\plain \nowidctlpar\widctlpar\adjustright \fs20\cgrid {\ul Monitoring IGRP:}{ R}{\b # sh ip route}{ }{\b igrp}{ : }{\fs22 sh like RIP+ delay, bw, reliabilty, load,}{ R# }{\b sh ip route igrp}{-}{\fs22 shows IGRP routes}{, 
+\par }{\ul R # }{\b\ul sh ip protocol}{\ul -}{\fs22\ul sh all timers, broad freq}{\fs22 , etc}{,  R#}{\b  sh ip int-}{\fs22 shows int config, status & global parameters}{\b , 
+\par }{R}{\b # un / debug ip igrp events / transactions }{\fs22 : sh  IGRP traffic live, config}{ t }{\b # no route igrp}{-}{\fs22 stops IGRP.}{       
+\par }\pard\plain \s22\nowidctlpar\widctlpar\adjustright \fs20\cgrid {\fs10 
+\par }\pard\plain \s5\keepn\nowidctlpar\widctlpar\outlinelevel4\adjustright \b\fs22\cgrid {\i\ul OSPF:}{ }{\b0 Link state proto, used within AS, a grp of routers that share a routing proto. Each router retains own dbase. }{
+\par }\pard\plain \nowidctlpar\widctlpar\adjustright \fs20\cgrid {\fs22 
+Huge metric limit 65533, assign cost to a link, load balancing among equal cost links, update-only for a change, pkts carry info for multi routers (tell a friend), can communicate out side AS, supports VLSM, TOS (types of  svce  routing)
+\par }{\b\i\fs6\ul 
+\par }{\b\i\fs22\ul EIGRP}{\b\i\fs22 :}{\fs22  Cisco prop, Balanced Hybrid Proto (best path by dist vect, update by link state), fast conv, support VLSM, partial updates, multi proto support (IP/IPX/Apple talk), update-only for change only for neighbors. 
+
+\par }{\b\fs8\ul 
+\par }{\b\fs24\ul Exterior Routing proto}{\b\fs22\ul  }{\fs22 : used outside an AS. More complex, stores more info about more  routers. 
+\par }{\b\i\fs6\ul 
+\par }{\b\i\fs22\ul EGP}{\i\fs22\ul  (Exterior g/way proto):}{\fs22  dist vector proto, Dynamic, doesn\rquote t use metrics like interior routing proto, can\rquote t detect or correct routing loops, communicates thro\rquote  a core backbone  routing net
+ that connects AS together, establishes a set of neighbors to share routing info,  send polls to neighbors to check \lquote alive\rquote , updates other routers within an As.
+\par }{\i\fs22\ul Message types:}{\i\fs22  }{\fs22 neighbor acquisition message to check \lquote alive\rquote / not, neighbor reachability message to check down/not, Poll messages to collect info about remote hosts\rquote 
+ network, Error message to identify various errors.
+\par }{\b\i\fs6\ul 
+\par }{\b\i\fs22\ul BGP}{\i\fs22\ul  (Border g/way proto)}{\fs22\ul :}{\fs22  An inter AS routing proto used on internet, used between &  within AS, Determines loops, two BGP neighbors must be on same physical net to communicate, doesn\rquote 
+t use a core, all areas can comm  w/o going thro\rquote  a core backbone, incremental updates for optimal routes only, metric with degree of preference.  
+\par }{\i\fs22\ul Message Types}{\i\fs22 : }{\fs22 Open-conn established, Notification: error det, Keepalive: keeps the hold timer alive,
+\par }{\b\fs24\ul Novell IPX proto stack}{\b\fs22\ul  :}{\b\ul  }{\fs22\ul ( SPX Sequence pkt exch,  IP Internetwork pkt exch)}{\b\ul  
+\par }{\b 7/ 6/ 5}{\fs22 -SAP, NCP; }{\b 4}{\fs22 -SPX; }{\b 3}{\fs22 -IPX, RIP, NLSP; }{\b 2+1}{\fs22 -Thro Open Data Link ODL Interface Novell supports all media types.   
+\par }{\b\i\fs8\ul 
+\par }{\b\i\ul IPX:}{\fs22  connless proto, uses sockets, controls assignment of address ( software addressing), governs pkt delivery, makes routing decisions based on info from RIP or NLSP proto, }{\b\i\ul SPX:}{\fs22  }{\i\fs22\ul 
+adds conn oriented comms to the connless IPX}{\i\fs22 .}{\fs22  Works by creating }{\i\fs22 virtual ckts}{\fs22  or }{\i\fs22 connections}{\fs22  between machines with each conn having a conn ID included in the IPX header.  
+\par }{\b\i\fs12\ul 
+\par }{\b\i\ul Novell  RIP:}{\fs22  dist vect routing proto, uses ticks (1/18 sec) & hop count (max 15) as metrics, split horizon, Aging timer, 
+\par RIP Broadcast @ 60 sec,  }{\b\i\ul SAP:}{\fs22  }{\fs22\ul svce advt proto, servers use it to advt svcs @ 60 sec, nodes use it to locate svcs,}{\fs22  
+\par }{\b\i\ul Netware server:}{\fs22  SAP(svcs table)& RIP (routing table) info xge between servers by broadcast @ 60 sec,}{\b\i\ul 
+\par NLSP:}{\fs22  Netware Link svce proto, advanced link state routing proto, might replace RIP & SAP. }{\b\i\ul NCP: }{\fs22 Netware core proto, provides file access, printing, synch, & security. }{\b\i\ul GNS Request : Loc server, Cisco router}{\i\fs22\ul 
+ + Rem  server (book) 
+\par }{\b\i\fs10\ul 
+\par }{\b\i\ul IPX Addressing:}{\fs22  use 80 bits (10 bytes), first 4 B-Net add; 6 B-Node add & is assigned autoly, mostly MAC add (3B vendor code +3B sl no- so no need ARP). Since hw MAC add is included as part of software add IPX , no need of ARP eqvlnt.
+
+\par Eg. 00007C80.0000.8609.33E9 is an IPX add in Hex. 20 Hex dig=10 B.  In dual proto nets TCP/IP add is converted to Hex (4B) and used as IPX net add for uniqueness. }{\b\ul Find IPX add:}{\fs22  ask admn, use CDP, telnet to neighbor router, 
+\par }{\b\i\ul Cisco Router:}{\fs22  build SAP tables, respond to GNS req in locating svcs like Netware servers, saves WAN link b/w by doing this incase of remote servers, by def  can\rquote 
+t pass SAP broadcast (can forwd if progmd), own SAP broadcast @ 60 sec,  
+\par }{\b\i\fs12\ul 
+\par }{\b\i\ul Enable IPX routing}{\i\fs22 :}{\fs22  }{\b\i # config t, # ipx routing }{\i\fs22 [node]}{\fs22 , (node-optional-mac add of int by def, must if  R has only serial ports)
+\par }{\fs22\ul # }{\b\i\ul ipx maximum paths 2}{\fs22  }{\fs22\ul (max 512) forwards IPX pkts to mult paths}{\fs22 . cisco does load sharing by def over parallel paths. 
+\par }\pard \nowidctlpar\widctlpar\tx5940\adjustright {\fs22 # }{\b ipx delay}{\fs22  }{\i\fs22 [6/1] =}{\fs22 6 ticks, 1 hop. }{\i\fs22 Tick metric- Cisco default for LAN int- 1 tick, WAN int- 6 ticks}{\fs22 
+\par }\pard \nowidctlpar\widctlpar\adjustright {\b\i\ul IPX}{\i\fs22  on each sub/interface for multi frames: }{\b\i\ul # ipx network}{\i\fs22\ul  [number] [}{\b\ul encapsulation}{\fs22\ul  }{\i\fs22\ul encap-type] [}{\fs22\ul secondary}{\i\fs22 
+]:uses def  if [encap+sec-optional] not given, }{\b\i # }{\b\i\ul config t}{\b\i , # }{\b\i\ul ipx routing}{\b\i ,  # }{\b\i\ul int e0.1}{\b\i ,  # }{\b\i\ul ipx  network  3200  encap  arpa   sec,}{\i\fs22  }{\b\i  
+\par }{\b\i\fs14\ul 
+\par }{\b\i\ul Encapsulation / }{\b\ul Frame types}{\fs22 : Netware supports multi incompatible frames on the same media, All of them works in one media if Cisco router supports all frames. }{\b t}{\b\ul o use multi encap use subinterfaces, seconary nets}{
+\fs22\ul .}{\fs22  4 types: }{\i\fs22 Enet_802.3}{\fs22 : def till Nw 3.11, }{\i\fs22 Enet_802.2}{\fs22 :def since Nw 3.12, }{\i\fs22 Enet_II:}{\fs22  supports tcp/ip & ipx, }{\i\fs22 Enet_snap}{\fs22 : supports Appletalk, ipx, tcp/ip.
+\par }{\b\i\ul Encapsulation}{\fs22  :   Ethet, Token Ring, FDDI, (Interface  type, Novell Frame type, Cisco IOS key word)}{\i\fs22 
+\par }{\fs22 Ethernet :       }{\fs22\ul IPX Enet_802.3: }{\b\i\ul novell-ether}{\fs22\ul  (default),}{\fs22   IPX Enet_802.2: }{\b\i sap}{\fs22 ,    IPX Enet_II: }{\b\i arpa}{\fs22 ,     IPX Enet_snap: }{\b\i snap}{\fs22 
+\par Token Ring : }{\fs22\ul Token-Ring: }{\b\i\ul sap}{\fs22\ul  (default),}{\fs22                       Token-Ring_snap: }{\b\i snap, 
+\par }{\fs22 FDDI :           fddi_snap:   }{\b\i snap}{\fs22  (default),                     fddi_802.2: }{\b\i sap  }{\fs22             IPX Fddi_raw: }{\b\i novell-fddi
+\par }{\fs22 Serial :           HDLC (default)
+\par }{\b\i\fs22 arpa}{\i\fs22  : IPX  Enet_II,          }{\b\i\fs22 hdl}{\i\fs22 c : HDLC on ser links,        }{\b\i\fs22 novel-ether}{\i\fs22  : IPX Enet_802.3,    }{\b\i\fs22 novell_fddi}{\i\fs22  : IPX  Fddi_raw
+\par }{\b\i\fs22 sap}{\i\fs22  : IEEE 802.2 on Enet, FDDI, Token  ring,                  }{\b\i\fs22 snap}{\i\fs22  : IEEE 802.2 SNAP on Enet, FDDI, Token  ring
+\par }{\b\i\fs16\ul 
+\par }{\b\i\ul Sub interfaces}{\i\fs22 :}{\fs22  are virtual interfaces on a Cisco router, A new way to run secondary  ip, ipx adds on the same interface.
+\par To define sub Int use}{\i\fs22   }{\i\fs22\ul # }{\b\i\ul Interface  ethernet  slot / port.  number}{\i\ul , }{\i\fs22\ul (number =e0.0-e0.4292967295}{\i ),  }{\b\i\ul #config  t    }{\b\i 
+\par }{\b\i\ul # int  e0.100}{\i\fs22 ,}{\fs22   }{\b\i #}{\b\i\ul  ipx  network  2300  encap  sap 
+\par }{\b\i\fs12\ul 
+\par }{\b\i\ul Secondary address}{:}{\fs22  To add multi frame types and IPX add on the same int. (No cisco support, cisco supports only sub interfaces.  }{\b # config t, # int s0, # }{\b\ul ipx  network  2200  encap  sap}{\b ,}{\b\i     }{\b # }{\b\ul 
+ipx  network  3200  encap  hdlc  }{\b\fs22\ul sec}{\b\i\ul  
+\par }{\b\i\fs16\ul 
+\par }{\b\i\fs22\ul Monitoring IPX}{\b\i\ul  on Cisco routers}{\i\fs22\ul :}{\i\fs22 .
+\par }{\i R}{\b\i # sh  ipx  route}{\fs22  : sh IPX routing table entries. C-conntd prim net, c-conntd sec net, S-static, F-floating static, L-local (int), W-ipx wan, R-rip, E-eigrp, N-nlsp, X-Extl., A-Aggregate, s-sec,  
+\par }{\i\fs22\ul R# }{\b\i\ul sh  ipx  servers: }{\i\fs22\ul sh all net servers, SAP table with all SAP svcs}{\fs22 , P-periodic,I- incremental, H-Hold down, S-static}{\b\i\ul 
+\par }{\fs22\ul R# }{\b\i\ul sh  ipx  traffic}{\fs22\ul : }{\i\fs22\ul sh summary of  No & type of both IPX  RIP & SAP  update pkts recd & sent @ 60 sec by the router.}{\fs22 
+\par }\pard \nowidctlpar\widctlpar\tx5940\adjustright {\i\ul R}{\b\i\ul # sh  ipx  interface: }{\fs22\ul sh status of  IPX int & IPX paramtrs set on each interface.}{\fs22  }{\fs22\ul sh sap,rip info(book-ans)}{\fs22     
+\par }\pard \nowidctlpar\widctlpar\adjustright {\i\ul R}{\b\i\ul # debug  ipx  routing activity / events}{\fs22\ul : shows IPX RIP & SAP update pkts recd & sent, live IPX as its running thro  network
+\par }{\i R#}{\b\i   undebug  ipx  routing  act}{\i ,  R#}{\b\i  ping  ipx  5200.0000.0c3f.1d86}{\i\fs22 - test ipx congif,}{\b\i  }{\i R#}{\b\i  debug ipx sap : }{\i\fs22 
+shows IPX  SAP pkts sent & recd @ 60 sec. SAP  0x1/0x2 gen qry / resp, 0x3/0x4 GNS reqst / resp. 
+\par }{\b\i Extended Ping: }{\fs22 R# ping, ipx, 5200.0000.oc3f.1d86.       }{\i\ul R #}{\b\i\ul  sh  proto e0-   }{\i\fs22\ul also shows }{\b\i\ul  IPX add  }{\i\fs22\ul of  an int}{\b\i\ul .}{\fs22\ul 
+\par Monitor neighbor router}{\b\i : }{\i R}{\i\fs22 # sh cdp entry routerX; R# sh cdp neighbor detail; R# telnet routerX / ipadd, R# sh ipx add  
+\par }{\b\ul 
+\par }{\b\fs24\ul 
+\par 
+\par 
+\par 
+\par Access Lists}{\b\fs22\ul  }{\fs22 : A list of conditions that control access, filters un wanted pkts. IP + IPX works similar. applied inbound or outbound traffic. Rules: compared in sequential order, c
+ompared until first match, implicit deny if there is no match.  
+\par }{\b\i IP Std }{\i\fs22 1-99, }{\b\i IP Ext }{\i\fs22 100-199, }{\b\i IPX Std}{\i\fs22  800-899, }{\b\i IPX Ext }{\i\fs22 900-999, }{\b\i IPX SAP }{\i\fs22 1000-1099, }{\b\i DECnet-}{\i\fs22  3xx, }{\b\i AppleTalk-  }{\i\fs22 6xx}{\fs22 
+\par Cisco IOS ver 11.2 or later allows to use Access list name rather than Number.}{\i\fs22  }{\fs22 
+\par }{\b\i\fs14\ul 
+\par }{\b\i\ul STD IP access list}{\i\fs22 :}{\fs22  }{\fs22\ul acts up on source IP add}{\fs22 . # }{\b config t}{\fs22 , syntax }{\fs22\ul  }{\b\i\ul # access-list }{\i\fs22\ul [number] [permit / deny] [source add}{\i\ul ]
+\par }{\i R#}{\b\i  config t}{\i , t#}{\b\i  int e0}{\i , if#}{\b\i  ip access-group 10  out,  }{\i\fs22 only 1 Access list each on  i/c & o/g is possible for each protocol. }{\b\i  
+\par }{\b\ul Wild cad masking}{\fs22\ul :}{\fs22  0-check, 255-ignore, # config t, # }{\b access-list 11 permit}{\fs22  [172.16.50.2  }{\b 0.0.0.0}{\fs22  / 172.16.30.0  }{\b 0.0.0.255}{\fs22 ]
+\par Eg:  [172.30.16 (00010000).0] [0.0.15 (00001111).255]- permits sub nets from 16 (00010000) to 31 (00011111)   
+\par }\pard\plain \s22\nowidctlpar\widctlpar\adjustright \fs20\cgrid {\fs14 
+\par }\pard\plain \nowidctlpar\widctlpar\adjustright \fs20\cgrid {\b\i\ul Extended IP access list}{\b\i :}{\fs22  }{\fs22\ul acts up on source add, dest add, IP proto, Port}{\fs22  , number=100-199,  # config t,  Syntax
+\par }{\fs22\ul # }{\b\i\ul access-list}{\fs22\ul  }{\i\fs22\ul [number] [permit / deny] [proto] [source add] [detn add] [port}{\i\fs22 ],  
+\par }{\fs22 # }{\b\i access-list}{\fs22   110  permit  tcp   host  172.16.50.2   host  172.16.10.2  eq  8080, # }{\b int e0}{\fs22 , }{\i\fs22 # }{\b\i ip access  group}{\i\fs22  110  out}{\fs22 
+\par }{\i #}{\b\i  access- list}{\fs22  110  permit  tcp   any  any  eq  www, host 172.16.50.2 = 172.16.50.2  0.0.0.0, any = 0.0.0.0  255.255.255.255
+\par }{\b\i\ul Port nos}{\fs22 .-bgp179, ftp21, ftpdata20, gopher70, lpd515, smtp25, telnet23, www80, tftp69, Dns53.  
+\par }\pard\plain \s9\keepn\nowidctlpar\widctlpar\outlinelevel8\adjustright \fs22\ul\cgrid {\b\i\fs14 
+\par }{\b\i\fs20 Monitoring}{ Ext IP access list 3 ways: R# sh  ip  interface,   R# sh  acces-lists,  R# sh  run
+\par }\pard\plain \nowidctlpar\widctlpar\adjustright \fs20\cgrid {\b\i #  sh access-lists}{\fs22 : sh all running access lists, no of hits/matches for each line (34matches)
+\par }{\i\fs22 o/p:  Ext IP access list 110}{\b\i ,  }{\b\i\ul permit  tcp  host  x.x.x.x  host  x.x.x.x  eq  8080  ( 15 matches)}{\b\i 
+\par }{\i R#}{\b\i  sh ip access-list / xxx}{\fs22  : shows all / xxx  IP access lists. R}{\b\i # clear access list counters}{\fs22  : clears no of matches counters  
+\par }{\i\ul R#}{\b\i\ul  sh ip int  eo  :}{\fs22\ul  shows int config,< which ports have IP access lists applied>  R}{\b\i\ul # sh running config }{\fs22\ul : shows full config 
+\par }{\b\i\ul Logging}{\i\fs22\ul  :}{\fs22  config t,  }{\b\i # access-list 110  deny  ip  any  any  log}{\fs22 - can see no of matches on the denied line eg. (4 matches)
+\par By default will log to the console. }{\i\fs22\ul Log contains:}{\fs22   }{\i\fs22 acc list no, source add, source port, dest add, dest port, no of pkts.}{\fs22 
+\par All the log info can be redirected  to a syslog server and stored for security purpose.
+\par }{\fs14 
+\par }{\b\i\ul Placing Access List}{\i  :  }{\i\fs22\ul STD  Access list -  Close to the  Destination}{\i\fs22 ,  }{\i\fs22\ul Extended Access list- Close  to  the  source}{\i 
+\par }\pard\plain \s21\nowidctlpar\widctlpar\adjustright \fs22\cgrid {\ul Efficient Access list}{:
+ Most commonly matched lines in the access list should be on top, this lets most pkts to match fast than going thro all the lines in the list causing a delay in traffic.
+\par }\pard\plain \nowidctlpar\widctlpar\adjustright \fs20\cgrid {\fs14 
+\par }{\b\i\ul STD IPX access lists}{\fs22  : based on source and dest add, config t, # access-list [number] [permit / deny] [source] [dest]
+\par t# }{\b\i access-list 810 permit 30  10}{\fs22 ,  If# }{\b\i ipx access-group 810 out}{\fs22  - permits traffic from net 30 to net 10
+\par t# }{\b\i access-list 811 permit -1  -1,  }{\i\fs22 -1 = any host, any net ID,}{\b\i    }{\fs22 
+\par }{\i\fs14 
+\par }{\b\i\ul Extended IPX access list}{\b\i :}{\i\fs22   }{\fs22 based on source net/node, dest net/node, IPX  proto (SAP, SPX etc.), IPX socket
+\par }\pard \nowidctlpar\widctlpar\tx2610\adjustright {\fs22 # }{\b\i access-list}{\fs22  }{\i\fs22 [number] [permit/deny] [IPX protocol] [source] [socket] [dest] [socket]}{\fs22  , # config t 
+\par }\pard \nowidctlpar\widctlpar\adjustright {\fs22 # }{\b\i access-list}{\fs22   }{\i\fs22 910  deny -1  50  0  30  0}{\fs22 ,     # int e0,   If }{\b # ipx  access-group  910  out}{\fs22   
+\par }{\i\fs22\ul Logging:}{\fs22  logs source add, source socket, dest add, dest socket, proto type}{\i\fs22 
+\par }\pard\plain \s8\keepn\nowidctlpar\widctlpar\outlinelevel7\adjustright \i\fs22\ul\cgrid {\b\fs20 Monitoring}{\b\fs20\ulnone :  }{\b\fs20 # sh access-lists }{\i0\ulnone (sh list contents),}{\b\fs20\ulnone    }{\b\fs20 # sh  ipx  int }{\i0\ulnone 
+(sh total int config),   }{\b\fs20 # sh run  }{\i0\ulnone (sh total router config)}{
+\par }\pard\plain \nowidctlpar\widctlpar\adjustright \fs20\cgrid {\b\i\fs14\ul 
+\par }{\b\i\ul IPX SAP Filters :}{\fs22  control access to IPX devices by controlling SAP, Cisco doesn\rquote t forw SAP broad, save WAN link, Builds own SAP table, advt @ 60 sec. SAP svcs }{\b\fs22 4}{\fs22  Nw file server, }{\b\fs22 7}{\fs22  Print server, }
+{\b\fs22 24}{\fs22  Rem bridge server (router)  
+\par # config t, # }{\b\i access-list}{\fs22  }{\i\fs22 [number] [ permit / deny] [source] [svce type, 0 means all svcs],       
+\par }{\b\i # access-list  1010  deny  3d  7, # access-list 1001 permit -1, # int  e0}{\i , (}{\i\fs22 # ipx net 9e)}{\i , If #}{\b\i  ipx  input-sap-filter 1001 }{\fs22 (-1 all nets)}{\b\i           
+\par Input  SAP  filter }{\fs22 : No. of  svcs entered in to the SAP Table is reduced, contains only a subset of  all svcs for propagation.  
+\par }{\b\i Output  SAP  filter }{\fs22 : No. of  svcs propagated from the table are reduced, only a portion of the table is propagated.
+\par }{\b\i Placement}{\fs22  : SAP filters must be placed close to  the  source to conserve critical bandwidth 
+\par }{\b\ul 
+\par }{\b\fs24\ul MISC}{\b\ul  : Interface Status}{\fs22 : }{\b\i Operational }{\fs22 : serial1 is up, line protocol is up, }{\b\i Conn  problem}{\fs22 : serial1 is up, line protocol s down,  
+\par }{\b\i Int  problem}{\fs22 : Serial1 is down, Line protocol is down, }{\b Disabled }{\fs22 : Serial1 is administratively down, line protocol is down  
+\par }{\fs4 
+\par }{\fs22 Conn Oriented- vir ckt, conn establmnt, term, sequenced, delivery ack, error recovery, sliding window flow control, 
+\par Conn Less- no VC, no sequence, no delivery guarantee, higher layer respon for error recovery, flow control, reliability.
+\par Flow control: no data lost, simple hand shake, sliding window, ack with source, 
+\par }{\b\fs4\ul 
+\par }{\b\ul AppleTalk config}{\fs22 : # config t, # }{\fs22\ul appletalk routing}{\fs22 , # int e0, # }{\fs22\ul appletalk cable-range 100-110}{\fs22 , # }{\fs22\ul appletalk  zone  bldgA
+\par }{\b\fs24\ul 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par WAN Services}{\b\fs24  : }{\fs22\ul Switched/Delayed svcs}{\fs22 :X.25, ISDN, Fr Relay, }{\fs22\ul SDLC}{\fs22 : P-P, P-multi P links, HDLC: Peer devices DDR.
+\par }{\b\i\fs10\ul 
+\par }{\b\i\ul POTS}{\fs22 -most commonly used WAN service: DTE, DCE, demarc, CPE  : }{\i\fs22\ul Demarc}{\fs22 ation point: at which MOC cable ends (DP), }{\i\fs22\ul CPE:}{\fs22  Customer premise eqpt, }{\i\fs22\ul Local loop}{\fs22\ul : }{\fs22 
+MOC cable path,}{\fs22\ul  }{\i\fs22\ul CO (Central off)}{\i\fs22 : }{\fs22 high speed trunk line area, 
+\par }{\b\i\fs14\ul 
+\par }{\b\i\fs22\ul SDLC (Sync Data Link Control)}{\b\i\ul  }{\fs22 : efficient, flexible & high speed, p to p & multi p links, un / bounded media, Half / Full Duplex, ckt & pkt switched nets, IBM uses in }{\i\fs22\ul SNA (System Net Architecture)}{\fs22 
+ proto, }{\i\fs22\ul Bit sync Data Link Layer proto}{\fs22 , }{\i\fs22 used in Cisco serial int to conn remote offices}{\fs22 ,  supports two net node types: 
+\par }{\i\fs22\ul Primary stns:}{\fs22  control opn of other stns, poll secondaries, and setup/tear down/manage links. }{\b\i\ul 
+\par }{\i\fs22\ul Secondary stns}{\fs22  : are controlled by primary stn, secondary  can only send data to primary only after getting permission.
+\par }\pard\plain \s22\nowidctlpar\widctlpar\adjustright \fs20\cgrid {\fs16 
+\par }\pard\plain \nowidctlpar\widctlpar\adjustright \fs20\cgrid {\b\i\fs22\ul HDLC (High Level Data Link Control)}{\b\i\ul  }{\fs22 : Bit oriented, link layer proto, specifies encapsulation for data on SDLC links.}{\b\i\ul 
+\par }{\i\fs22\ul (LAP & LAPB:}{\fs22  are modified form of  hdlc).             R# }{\b\i sh int s0}{\fs22 : shows hdlc config
+\par }{\i\fs22\ul Cisco HDLC: }{\i\fs22 Cisco prop, doesn\rquote t  commte with other HDLC\rquote s, default encapsulation in Cisco over sync serial links}{\fs22  
+\par }{\i\fs22\ul Transfer Modes}{\i\fs22 : }{\fs22 used to define media access on WAN. HDLC supports following transfer modes}{\fs22\ul  
+\par }{\i\fs22\ul Normal Response Mode(NRM)}{\fs22 : Implemented in SDLC, Sec can\rquote t commte with Prim unless Prim asks it to do so}{\i\fs22 .
+\par }{\i\fs22\ul Asynch Response Mode (ARM):}{\fs22  Allows Sec to commte with Prim w/o it\rquote s permissioin.
+\par }{\i\fs22\ul Asynch Balanced Mode (ABM):}{\fs22  Combined nodes (one acts as Prim / Sec) commtes each other w/o perm.
+\par }{\i\fs22\ul Link Access Procedure Balanced (LAPB):}{\fs22  Integrated in to the X}{\b\fs22 .}{\fs22 25 proto stack, shares same frame format, frame types, and field functions as HDLC. Uses ABM xfer mode to est ckts with DTE / DCE. 
+\par }{\i\fs22 Primaries-}{\fs22  devices initiate commn, }{\i\fs22 Secondaries}{\fs22 -those responds to prim commn 
+\par }\pard\plain \s22\nowidctlpar\widctlpar\adjustright \fs20\cgrid {
+\par }\pard\plain \nowidctlpar\widctlpar\adjustright \fs20\cgrid {\b\i\fs22\ul Dial on Demand Routing (DDR):}{\fs22  Allow WAN Link to be used intermitend for selected appl only. disable if, not in use.  
+\par Provides the missing software ingredient to create a }{\i\fs22\ul fully functional back up sysetm}{\fs22 ; supported in Cisco IOS ver 9 or later; supports IP, IPX, Aplletalk, DECnet, OSI/C
+LNS; DDR can be used over sync/Async serial links & ISDN; supports only Static routing(not always active to support dynamic).         
+\par }\pard\plain \s22\nowidctlpar\widctlpar\adjustright \fs20\cgrid {
+\par }\pard\plain \nowidctlpar\widctlpar\adjustright \fs20\cgrid {\b\i\fs24\ul X.25}{\b\i\fs22\ul :}{\fs22  std defines conn between a term & a pkt switching net. works on switched/perm virtual ckts, uses addsng defined by
+ X.121(1-15 decimal digits long), first 4 bits used for DNIC (Data Net Identifier Code), rest is NTN (Net Term No.) & can be assigned by admnr/PSN provider. X.25 defines p-p comms between DTE (router) & DCE (modem or csu/dsu). Can be placed in b types of 
+eqpmts. Works at layer3 using LAPB at layer2. reliable & sliding windows. 
+\par DTE , Data Ckt Term Eqpt (DCE), Pkt switching Exge (PSE)
+\par }{\i\fs22\ul X.25 Sessions:}{\fs22  used for DTE to DTE  commn. process estblmt > One dte contacts other, sec one accepts/refuses, if accepted full duplex comm begins, either one can terminate conn. Once terminated must repeat same process.
+\par }{\i\fs22\ul Virtual Ckts:}{\fs22  is a logical bi-directional path from one DTE to other, can pass thro X no.of nodes, can be mux/demuxed,
+\par }{\i\fs22\ul SVC: Switched Virt Ckt}{\fs22  is a temp conn made & terminated for intermittent use. max 8 svc/proto/destn. max 9 proto/svc.  
+\par }{\i\fs22\ul PVC: Perm Virt Ckt}{\fs22  is always active once setup, DTE\rquote s can use it any time w/o make/termn. 
+\par }{\i\fs22\ul X.25 Proto suite}{\i\fs22  :}{\fs22  maps to lowest 3 layers. Pkt layer proto(PLP), LAPB, X.21 bis are typically used in X.25 imples.
+\par }{\b\i\fs6\ul 
+\par }{\b\i\ul PLP (Pkt layer proto):}{\fs22  X.25\rquote s net layer proto, manages pkt exges between DTE devices, can also run over LLC2 imples on LAN, and over ISDN int running LAP on D chnl (LAPD). }{\b Five  modes of  opns}{\fs22  : }{\b\i\ul 
+1.Call set up mode}{\fs22 :  creates SVC between DTE\rquote s, not used with PVC\rquote s; }{\b\i\ul 2.Data Xfer Mode}{\i\fs22\ul :}{\fs22  used for data xfer between DTE\rquote 
+s via virt ckt, segmentation, reassembly, bit padding, and error & flow control, used with svc & pvc}{\b  }{\b\i\ul 3.Idle Mode}{\i\fs22\ul :}{\fs22  used when a svc estbed, not  with pvc            }{\b\i\ul 4.Call clearing mode:}{\fs22 
+ used to terminate commn sessions & svc\rquote s, not  with pvc\rquote s  }{\b\i\ul 5. Restarting mode:}{\fs22  used to synch commn between DTE & local DCE, 
+\par }{\b\i\fs6\ul 
+\par }{\b\i\ul Link Access Procedure Balanced (LAPB):}{\fs22  Bit oriented proto, makes sure that frames are error free & properly sequenced, 3  diff frame types  }{\i\fs22\ul 1. Info frame (I-frame)}{\fs22 
+: transports upper layer & some control info, helps sequencing, flow control, error detection & recovery jobs. }{\i\fs22\ul 2. Supervisory frames (S-frame): }{\fs22 Bearing control info, handle req for and the suspension of xmission, }{\i\fs22\ul 
+3.Unnumbered frames (U-frames):}{\fs22  Bearing control info, handle link setup & termn.
+\par }{\b\i\ul X.21bis: used in X.25 physical layer}{\fs22 , at 19.2KB x.21bis supports p to p conn and synch, full duplex Xmission over 4 Wires.
+\par }{\b\i\fs10\ul 
+\par }{\b\i\fs22\ul X.25 on Cisco}{\b\i : }{\i\fs22 # config t, # int s0,}{\b\i\fs22  }{\b\i\ul # encap  x25 }{\b\i - }{\i\fs22 x.25 enabled;}{\b\i  }{\i If}{\b\i # x25 address 12345}{\b -}{\fs22 config local x.121 add}{\i\fs22  }{\fs22 on x25 ser int;}{
+\i\fs22  
+\par }{\i\fs22\ul Mapping proto}{\i\fs22 : # }{\b\i x25 map}{\i\fs22 [proto] [add] [ x.121add] [options], # x25 map  ip  10.6.8.1  123456  broadcast}{\i     }{\b\i 
+\par }{\fs22\ul config i/p, o/p pkt size}{\fs22 : If}{\b\i # x25  ips  256, # x25  ops  256}{\fs22  (def-128,max-4096B}{), }{\fs22\ul config VC range}{\fs22 : # }{\b x25  pvc  xx }{\fs22 (1-4095)
+\par }{\fs22\ul config i/p, o/p window sizes}{ If}{\b\i # x25  win 7, # x25 wout 7}{\fs22  (def-2, max-127). 
+\par }{\fs22\ul Monitoring X.25}{\fs22 : R}{\b\i # sh  int  s0}{\fs22 - }{\i\fs22 shows x.25 config & encap}{\fs22 
+\par }{\b\i\ul 
+\par 
+\par }{\b\fs22\ul 
+\par 
+\par FRAME RELAY}{\b\i\fs22\ul :}{\fs22  A Layer2 proto, efficient(sharing), faster(no error check), shares b/w with other users, less cost. 
+\par }{\fs22\ul CIR-Committed info rate}{\fs22  (min guaranteed b/w)-Gives commn int bet  Dte & Dce, uses more pvc than svc. Gives conn oriented Dllayer comm by using virtual ckts like x.25. uses }{\b Inv ARP}{\fs22 (find remote IP from dlci values)
+\par A FR vir ckt is a log conn between 2 DTE\rquote s across a pkt switched net (PSN) and is identified by DLCI.
+\par }{\b\ul DLCI}{\b\fs22\ul  }{\fs22 (Data Link Conn ID-given by svce provider): A number that Identifies a logical conn between CPE & FR switch. 
+\par }\pard \nowidctlpar\widctlpar\tx6210\adjustright {\b\ul LMI}{\b\i\ul  Local Mngmt Interface: }{\fs22 A signaling std betwn CPE & FR switch. Gives current DLCI values, Global/Local significance of  DLCI values, status of VCs. LMI-3 types, }{\b\i Cisco}{
+\i\fs22 (default}{\b\i ), Ansi }{\i &}{\b\i  Q.933a}{\i\fs22 ,(since IOS 11.2 LMIs auto sense)
+\par }\pard \nowidctlpar\widctlpar\adjustright {\b\i\fs10\ul 
+\par }{\b\i\fs22\ul Config FR}{\i\fs22\ul :}{\fs22  specify FR as encaps on Serial Int. }{\b\i\ul Cisco}{\b  }{\fs22 (def, cisco-cisco) }{\b\i\ul  IETF }{\fs22 (Inet engg task force, cisco-non cisco)
+\par If# }{\b\i encap frame-relay-}{\fs22 fr cisco enabled, # }{\b\i encap frame-relay IETF}{\fs22 : fr IETF enabled, 
+\par }{\b\ul config LMI}{\ul :}{\fs22  if# }{\b frame-relay lmi-type}{\fs22  [ansi/cisco/q933i], (for IOS before 11.2)
+\par }{\b\ul config DLCI}{\fs22 : at int s0: # }{\b\i frame-relay interface-dlci 16 }{\fs22 : (16-1007) ; }{\b\i\ul # sh int  s0}{\b\i\fs22\ul \endash }{\i\fs22\ul sh dlci, lmi tafic,fr line speed,no dlci no.}{\fs22 
+\par }{\b\ul Enab broadcast}{:}{\b   # }{\b\ul frame-relay  interface-dlci  16  broadcast}{\fs22 - allows routing updates only if broad is enabled.
+\par }{\b\fs10\ul 
+\par }{\b\ul Sub Interfaces}{\fs22 : multi VCs on single serial int for diff proto. }{\fs22\ul Config sub int}{\fs22 : # }{\b\i int  s0.16 }{\i\fs22 [p-p / multi point]. (0-4292967295}{\i ),}{\i\fs22 
+\par }{\i\fs22\ul point-point}{\i\fs22 : one sub int each to each rem router}{\fs22 , do not forw broad, rout updates, each pr of routers are in its own subnet. 
+\par }{\i\fs22\ul multi point}{\i\fs22 : one sub int to multi rem router,}{\fs22  forw broad, updates it recvs,  all routers in one subnet & IP routing. }{\i  
+\par }{\b\i\fs10\ul 
+\par }{\b\i\ul Mapping Frame Relay}{: }{\fs22 IP add of both end devices on a VC must be mapped to their DLCIs. Called }{\b FR map table}{\fs22 
+\par }{\fs22\ul 1.use frame relay map}{\fs22 , config: }{\fs22\ul # int s0.16, # encap frame-relay ietf, # no inverse-arp, # ip add 172.16.30.1 255.255.255.0}{\fs22 , }{\fs22\ul # }{\b\i\ul frame-relay  map  ip  172.16.30.17  30}{\b\i , }{\fs22 # }{\i\fs22 
+fr map ip 172.16.30.19 50 broad, }{\fs22 # }{\i\fs22 fr map ip 172.16.30.18 40 }{\i\fs22\ul cisco}{\i\fs22   broad, 30/40/50 dlci nos, VCs 1,2 ietf encap, 3 }{\i\fs22\ul cisco encap}{\i\fs22 , }{\b\i\ul FR map : only way to mix ietf &  cisco encap}{
+\i\fs22   }{\fs22 
+\par }{\fs22\ul 2. use Inv ARP: # int s0.16, # encap frame-relay ietf, # ip add x.x.x.x  x.x.x.x  (Inv ARP on def, does dynamic mapping)
+\par }{\b\i\fs12\ul 
+\par }{\b\i\ul Monitoring Frame Relay}{\fs22 : many ways to check status of int & pvc\rquote s, }{\fs22\ul # }{\b\ul sh frame pvc}{\fs22\ul - }{\b\ul sh}{\fs22\ul  }{\b\ul all  configured dlci  nos +  pvc stat}{\fs22\ul ,   }{\fs22        
+\par R# }{\b\i sh frame-relay}{\fs22  [ip/lmi/map/}{\b\i pvc}{\fs22 /route/traffic]-}{\b\i shows}{\b\fs22  }{\b f}{\b\fs22 r}{\fs22  ip stast / lmi stat / fr map table / each }{\b\i pvc, dlci}{\fs22  / route / proto stat  
+\par R# }{\b\i sh int s0}{\fs22 -sh }{\b\i lmi traffic, line speed}{\fs22 , dlci, lmi info, no dlci no,  R# }{\b debug frame-relay lmi- }{\fs22 BrainDump.
+\par }{\b\i\fs16\ul 
+\par }{\b\i\ul PPP:}{\fs22  layer 2+3 proto can be used over Asynch / Synch  serial, ISDN media. }{\i\fs22\ul uses LCP (Link Control Proto)}{\fs22  to build, config, maintain & termte  data link conns. provides Authentication PAP, CHAP and Data compression. }{
+\fs22\ul Thro\rquote  NCP (Network control proto) it encaps multi proto}{\fs22   }{\fs22\ul IP, IPX, AppleTalk, DECnet, OSI/CLNS}{\fs22  and transparent bridging.
+\par }{\i\fs22\ul Config PPP Encap}{\i\ul :}{\fs22   # }{\b\i config t}{\fs22 ,  # }{\b\i int s0}{\fs22 ,  # }{\b\i encapsulation  ppp, # ppp auth chap}{\fs22 ,  # }{\b\i sh  int  s0}{\fs22 - shows ppp config. 
+\par # }{\b debug}{\fs22  }{\b ppp authentication}{\fs22 : shows CHAP/PAP auth info Exge sequence as it occurs. Live. 
+\par }{\fs22\ul Config  PPP password}{\fs22 :  # }{\b username}{\fs22  xxxx  }{\b password  }{\fs22 xxxx- user name/ p.w  expected from remote router.}{\i\fs16 
+\par 
+\par }\pard \nowidctlpar\widctlpar\tx3870\adjustright {\b\i\fs22\ul ISDN}{\b\i\ul  }{\fs22 : a set of protos carries a group of Digital svcs that simultaneously convey Data, Text
+, Voice, Music, Graphics & Video to end users and it is designed to achieve this over the existing tel line. ISDN works in phys, DLL & Net layers. 
+\par }\pard \nowidctlpar\widctlpar\adjustright {\fs22 Devices connecting to ISDN net are known as Terminals. }{\b TE1 }{\fs22 Term  Eqpt type 1 understand ISDN stds, }{\b TE2}{\fs22  predate ISDN stds, use TE2 thro }{\b\ul Term Adapter (TA).}{\fs22   }{
+\fs22\ul To access ISDN with Cisco router- need Network  Termination 1(NT1) or ISDN modem}{\fs22 . If  }{\fs22\ul router has BRI Int.- can directly access ISDN}{\fs22 . Can access }{\fs22\ul from serial int thro a Term Adaptor (TA),}{\fs22   }{\fs22\ul 
+Router with BRI int= TE1(Terml end-point1}{\fs22 ),  }{\fs22\ul R that require TA= TE2 (Terml end point 2).}{\fs22   
+\par }{\b\i\fs10\ul 
+\par }{\b\i\ul ISDN Ref points}{\i\fs22 : }{\fs22 uses 4  Ref points to define logical interfaces. }{\b\i\fs22\ul R :}{\b\i\fs22  }{\fs22 defines the ref point between non ISDN eqpt & TA, 
+\par }{\b\i\fs22\ul S :}{\fs22  defines the ref point between user terminals & an NT2,}{\b\fs22   }{\b\i\fs22\ul T :}{\fs22  defines the ref point between NTI & NT2 devices, 
+\par }{\b\i\fs22\ul U :}{\fs22  defines the ref point between NTI devices and line term eqpmt in a carrier net (only in N. America)
+\par }{\b\i\fs8\ul 
+\par }{\b\i\ul ISDN protocols}{\b\i :   E-series}{\i\fs22  specifies ISDN on existing tel network, Basic telephone services. }{\i\fs22\ul 
+\par }{\b\i I-series}{\i\fs22  specifies Concepts, terminology and services,  }{\b\i Q-series}{\i\fs22  specifies switching and signaling.}{\i\fs22\ul   
+\par }{\b\i\fs8\ul 
+\par }{\b\i\ul Basic Rate Interface (BRI}{\b\i ) }{\fs22 : 2B+1D Chl. 2x64kb B Chl. carries Data, 16kb D chl. carries cntrl & signaling info.(tot 144kb). D chl signaling proto spans phy, dll, Net layers. }{\b\i\ul Config BRI}{\i\fs22\ul :}{\fs22 
+ Need SPID (Service Profile Identifiers), one for each B chl. 
+\par Its like Tel no. for each B chl. ISDN Device can access BRI service only after giving SPID no. to the ISDN switch.
+\par # config t,  # }{\b\i isdn  switch-type  basic-dms100}{\fs22 , # }{\b\i int bri0}{\fs22 , # }{\b\i encap  ppp}{\fs22 , # }{\b\i isdn spid1 77545}{\fs22 , # }{\b\i isdn spid2 77546}{\fs22  
+\par }{\b\i\fs8\ul 
+\par }{\b\i\ul Primary Rate Interface (PRI):}{\fs22  23B+1D64 chl. (1.544mb-T1), 30B+ 1D64 (2 mb-E1) }{\b\ul 
+\par Config PRI}{\fs22 : for each ISDN PRI int, need to specify Data link specific info for the T1 controller, this way PRI commtes with ISDN switch, Framing & line coding info is essential. # }{\b config t}{\fs22 , # }{\b\i controller T1 1/0}{\fs22 ,   # }{
+\b int  pri0}{\fs22 ,  # }{\b\i framing esf}{\fs22 ,  
+\par # }{\b\i linecode  b8zs}{\fs22 , # }{\b\i pri-group timeslots 1-24,  }{\fs22 Extended Superframe Framing (ESF) is used in T1 ckts, consists 24 frames of 192 data bits each, with bit 193 provides timing & other functions. }{\b B8ZS}{\fs22 
+ is a binary eight-zero substitution line-coding mechanism  guarantees delivery of  data of 8 cont. zeros. Time slots 1-24 defines ISDN PRI time slots 1 to 24.
+\par 
+\par 
+\par }}

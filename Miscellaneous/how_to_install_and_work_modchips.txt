@@ -1,0 +1,121 @@
+How To Install and Work Modchips (AnGeLk][LLa)
+
+For Original Modchip that goes inside the Playstation:
+
+NOTE: The sticker on the bottom of the console shows the model number of your Playstation and looks like this: SCPH XXXX (the XXXX stands for the model number)
+
+CAUTION: disconnect all cables and remove any discs prior to disassembly. Keep track of where the screws and internal components go as the machine is disassembled.
+
+Removal of the Console Cover:
+Turn the unit over and remove the black screws. 
+Lift the cover off.
+
+Removal of the Laser/Motor Assembly:
+Disconnect the orange ribbon cable by pulling straight up on the end of the cable, where its connected to the socket on the board. (On the SCPH 100x and SCPH 3000 series you will have to lift the black socket a little bit in order to release the ribbon cable). This will release the cable, which can then be removed, by pulling straight up (Be careful when you pull at the cable) 
+Disconnect Laserhousing power connector (3 grey + 1 white wire) by pulling straight up. 
+Disconnect collection of rainbow colored wires by pulling straight up. 
+Lift off the laser/motor assembly and put in a safe place. 
+
+Removal of the Controller/Memory Card Housing:
+Remove the screws holding the thin metal bracket in place. 
+Lift off the bracket. 
+Disconnect the ribbon cable by pulling straight up. 
+Lift off the controller/memory card housing. 
+
+Removal of the Heavy Metal Chassis Bracket:
+Remove the screws holding the bracket in place. They are indicated by arrows. 
+Lift off the bracket. 
+Removal of the Circuit Board:
+Remove the screws along the top edge
+Lift off the circuit board. 
+Turn board over so that it is oriented like the enclosed images. 
+
+Locate PIN 1 on the MOD Chip:
+
+   This picture shows a TOP VIEW of the MOD Chip.
+PIN 1 is left of the little semi circle below the words "MOD CHIP" on the picture. 
+
+Mounting the MOD Chip to the Board:
+Carefully bend the the pins of the chip with pliers so they are parallel with the chip.
+Locate the area shown on the enclosed images.
+Carefully glue the chip UPSIDE-DOWN on a suitable place on the mainboard.
+Prepare 4 isolated wires, by cutting the enclosed long wire into 4 parts.
+Solder the parts to Pin 1, 5, 6, 8 on the chip.
+Solder the other ends of the wires to the soldering points on the mainboard which are indicated by the arrows on the enclosed installation pictures.
+The Pins of the chip must be completely isolated from all metal parts of the mainboard and from the metal plate at the PSX bottom! (use a self-adhesive plastic sheet to isolate the chip)
+
+Re-assembly:
+Re-assembly is to be done exactly in reverse order.
+
+___________________________________________________
+
+___________________________________________________
+
+For Plugmod types of modchips (that plug into the
+back of the PSX) :
+
+PlugMod Instructions
+
+Switch Down = PlugMod OFF
+Switch up = PlugMod ON (On screen controls for every feature of the PlugMod)
+
+Keys:
+Circle = Select (or Forward), X = Cancel (or Back), Triangle = Delete, Square = Edit Codes
+
+Normal Start:
+PlugMod Side Switch in the Down position - This Starts normal games with no codes, just like the playstation would if the PlugMod was not in the system except it also bypasses the white and black screens
+
+Start game with code (Side Switch in the UP position):
+This will load the game using the codes you have selected. 
+The currently selected cheat title appears at the bottom of the menu.
+
+Select Cheat Code:
+This takes you to a list of all the codes that are in the PlugMod’s memory. Move up and down on your controller to highlight a game of your choice and press the "O" key. This will bring you to a list of code’s for that game. Move up and down to highlight a code, press the "O" key to select (or unselected) a code. The "+" symbol will show up to let you what code is active. You can obtain cheat codes from http://www.datel.co.uk/psx/psxusind.htm and many other sources on the internet. 
+Add a Code:
+Before adding new codes with your controller you must DELETE codes because the PlugMod is shipped with the maximum amount of codes in memory. There are code’s coming out for new games all the time. You can use  "action replay", "gamebuster" and most "game shark"codes found on the Internet and in magazines. First go into SELECT CHEAT CODE and go to new game and Press "O". Go through the steps (enter name, master code – not necessary, type of code, the actual code) hit "X" each time to save.- 
+Delete a Code:
+Highlight any code you wish to delete and the "triangle" key, Then hit "X" to confirm the delete. 
+Memory Manager:
+This section works essentially the same way as the PlayStation's built-in Memory Card Manager, but is faster and easier to navigate.
+1. COPY - Copy a single block 
+2. COPY ALL - Copy the entire memory card 
+3. DEL - Erase a single block from a card - Yes/No - Defaults to No 
+4. DEL ALL - Erase the entire memory card - Yes/No - Defaults to No 
+5. Exit 
+V-Ram image viewer:
+This will view the contents of the PlayStation's VRAM at the time RESET was pressed.
+
+Directional Pad - Pan around 
+L1 - Increase horizontal resolution 
+R1 - Decrease horizontal resolution 
+L2 - Toggle vertical resolution (240/480) 
+R2 - Toggle bit depths (16/24) 
+Triangle - Move status window 
+O - Fast Pan (when used in combination with directional pad) 
+X - Exit 
+CD-ROM Viewer Plus (a file explorer):
+This lets you view the computer files of the game that is in the playstation, you can find and start files that contain movie and sound. 
+PLAYING GAME MOVIES & MUSIC:
+STR / MOV - Streaming Movie (Game Cinema)
+XA / XA1 - PlayStation Audio (Game Music) 
+EXE - Program File Clicking on a compatible filename will bring up a list of the file's contents. You may play any movie or audio files contained within by highlighting a selection and pressing "O". The "Triangle" button analyzes the currently selected file.
+
+Special Notes:
+Some of the cheat codes are made for Japan Games -  you may want to delete them 
+Play Import and Backup Games:
+First setup your playstation to "think" the door is always closed by inserting a spring or a toothpick - CLICK HERE FOR PICTURE - You will only have to do this once.
+Insert ANY game or the "demo disk" (make sure the PlugMod Side Switch is in the up position)
+When the disc stops spinning, remove your "boot disc" and insert the import/backup you wish to load.
+Select either START GAME or START GAME WITH CODES to load. Your import/backup will now play!
+That’s it! All your games should load up perfect!
+
+Playing multi disk Import and Backup Games:
+There are 2 ways to boot up the second CD-R or import disk. 
+
+You can save game information from the end of disk one onto your memory card and then boot up disk two from the memory card (recommended way). 
+
+Or if you don't have a memory card or a game that saves at the end of disk one you will have to do the following:  When prompted for the 2nd disk remove Import or Backup disk 1 and insert the demo disk (any black bottom disk will do fine but the demo disk works the best) , decompress the spring for a second  and then uncompress the spring so the playstation "thinks" that you opened the door for disk 2,  press the start button, allow the demo disk to spin for about 1 second then remove the spinning disk and replace it with the import disk 2 or CD-R disk 2. The second disk will boot up perfectly! If it does not work on the first attempt try again...It will.
+
+________________________________________
+DONE :)
+_________________________________________

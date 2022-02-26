@@ -1,0 +1,26 @@
+By request i am writing up a quick faq on how to turn books into electronic form.
+
+You will need sever forms of software to make this easy,  painless, and the files small.
+
+1. Adobe Acrobat 4.0 full
+2. Adobe Photoshop 5.5 full
+3. MS Word
+
+I assume you have a scanner. If you don't just buy one.
+
+Now this is what you do.
+
+1. Scan each page of the book including the front of the book all the way to the end of the book and the back. at 8 1/2 by 11 @ 100% - 200%. Do  this from adobe photoshop and save the files for web. Use the jpg format not the gif format. Make sure your blur is at 0 and your at maximum for the files.
+
+name all the files in order of the pages. This is the longest part of the process and depending on the speed of your scanner should take about 1 - 4 hours of work.
+
+2. Organize all the jpg's in order in MS Word. Then save the document as the <Bookname>.doc.
+
+3. Make sure that adobe acrobat full is installed, and that adobe distiller is configured. this is your printer. You print the documents to pdf. (if you don't know how to do this go to explorer and check your printers. then click on the adobe one and add a new port, this is a directory where you will be printing to) 
+Once all that is configured you print your newly made document to pdf.
+
+There all done.
+
+Enjoy
+
+z123
